@@ -115,7 +115,28 @@ Source: 拼多多
     - Six-layer 110*110cm Premium => 23.99 RMB
     - Wide-edge Six-layer 110*110cm Premium => 25.99 RMB
 
+- [ ] **Electric Pressure Cooker:** Joyoung Electric Pressure Cooker with Titanium & Fluorine-Free Coating, 5L Large Capacity, Multi-Functional Smart Preset Rice Cooker for Home Use
+  - 1 item
+  - Options:
+    - 5L Dual Inner Pots (Titanium stainless steel and copper pot dual inner pots / 70KPa high-pressure quick cooking) => 217.9 RMB
+    - 5L Single Inner Pot (Titanium stainless steel inner pot / 70KPa high-pressure quick cooking) => 208.9 RMB
 
+- [ ] AUX Air Electric Oven - Multifunctional Visual Steam-Oven Combo for Home Use, 2026 New Model with Baking and Defrosting Functions
+  - 1 item
+  - 家庭料理全包揽
+    *   空气炸锅: **Air Fryer**
+    *   电蒸箱: **Electric Steamer**
+    *   干果机: **Food Dehydrator**
+    *   电烤箱: **Electric Oven**
+    *   多士炉: **Toaster**
+    *   电烤盘: **Electric Griddle / Grill Pan**
+    *   解冻机: **Defroster / Thawer**
+    *   早餐机: **Breakfast Maker** (usually a sandwich/toastie maker)
+    *   披萨机: **Pizza Maker**
+    *   微波炉: **Microwave Oven**
+  - Options:
+    - Official standard configuration (7-in-1: Roast / Steam / Fry / Defrost) 1700W high power => 198.55 RMB
+    - Luxury upgrade (7-in-1: Roast / Steam / Fry / Defrost) 1700W high power + double-layer glass => 236.55 RMB
 
 Note that we already have the following from gifts:
 
@@ -127,3 +148,9 @@ Context:
 
 - Male baby
 - Location is in Singapore
+- About to move to new house (previously we only rent a room, so we couldn't cook much)
+- As the husband, I need to become my wife's 月嫂.
+- Today is 29 August 2026
+- We will move to the new house on 19 September 2026
+- Estimated due date is still 1 November 2026, but nothing wrong with buying things early
+- The cooking appliances will definitely be of use earlier than the baby items
