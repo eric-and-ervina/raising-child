@@ -657,6 +657,14 @@ Source: 拼多多
     - Please refer to the detailed product information and assembly diagram for all parts and hardware.
     """
 
+  - ⚠️ **Note:** its "Electric Steamer (电蒸箱)" mode is really **micro-steam** — a water trough that injects moisture during convection-oven / air-fry cooking (keeps roasts juicy). It is NOT a traditional steamer and won't properly steam fish, egg custard, or chicken. Use a hob + frying pan with a steamer rack for true steaming (see below).
+
+- [ ] **Frying Pan / Sauté Pan (hob, TBC):** non-stick wok-style or deep sauté pan for the gas/induction hob — for steaming, stir-frying greens + quick sears
+  - 1 item
+  - TBC brand/model/size and price (not yet chosen)
+- [ ] **Steaming Rack + Lid (蒸架):** folding stainless-steel steaming rack that turns any pan into a steamer — for steamed fish, egg custard, steamed chicken, sweet potato
+  - 1 item (a tight-fitting lid that can be the pan's own lid works; a glass lid that shows steam is a bonus)
+  - ~10–30 RMB (S$5–8) in a Singapore hardware or neighbourhood store
 
 Note that we already have the following from gifts:
 
