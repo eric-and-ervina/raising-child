@@ -97,6 +97,7 @@
 |---|---|---|---|---|
 | Newborn (NB) diapers | 10 | ✅ Buy 2–3 packs only | Babies outgrow NB size fast (~3–4 weeks). Buy NB in small packs + size S. Online subscription (Lazada/Shopee or brand subs) is usually cheaper. | 20–40 |
 | Baby wipes | 9 | ✅ Buy | Buy 2–3 packs + subscribe; avoid heavily scented ones. | 10–30 |
+| Cotton balls (sterile) | 8 | ✅ Buy | For cleaning eyes/face and dabbing around the umbilical cord stump. Skip cotton buds inside the ears. Hospital usually gives a starter supply at discharge — one pack is enough. | 3–6 |
 | Diaper rash cream (zinc-based) | 9 | ✅ Buy | Apply at every change in SG's humid climate. | 10–20 |
 | Changing mat (waterproof, portable) | 8 | ✅ Buy | Floor/bed changing is best in a small flat — no changing table needed. | 15–40 |
 | Nappy/diaper bin (or reuse a lidded bin) | 7 | ✅ Buy or reuse | A cheap lidded bin + bin bags works; diaper pails are optional. | 0–60 |
