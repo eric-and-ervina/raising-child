@@ -1,6 +1,6 @@
 # Baby Preparation Shopping List — First Baby Boy, 689 sqft HDB, Work-Pass Family
 
-**Who this is for:** a Chinese-Indonesian couple in Singapore expecting their first child (boy) in about **11 weeks** (mum is in week 29 — EDD around **early December 2026**). Both parents are **Indonesian citizens here on work passes: dad holds an Employment Pass, mum an S Pass**. They are about to rent a **689 sqft, partially furnished HDB flat** — intentionally under-furnished so it doesn't feel cramped.
+**Who this is for:** a Chinese-Indonesian couple in Singapore expecting their first child (boy) in about **4 weeks** (mum is in week 36 — EDD **early November 2026**). Both parents are **Indonesian citizens here on work passes: dad holds an Employment Pass, mum an S Pass**. They are about to rent a **689 sqft, partially furnished HDB flat** — intentionally under-furnished so it doesn't feel cramped.
 
 **What this document does:** lists what to buy (and what to skip), each item scored **0–10** for importance, with a **Buy / Buy later / Borrow / Skip** verdict, indicative prices in SGD, and Singapore-specific notes — plus a **paperwork track with legal deadlines (§10)** and a realistic cost picture for a foreign family (§11).
 
@@ -37,8 +37,7 @@
 
 | When | Do |
 |---|---|
-| **Now → week 33** | **🛂 Settle the Dependant's Pass plan:** whichever of you earns a **fixed monthly salary of at least $6,000** must be the sponsor — that parent's employer applies for the baby's DP. If neither of you is at $6,000, read §10 step 7 *now*, not in December. · **🏥 Book the hospital/OB** and ask for the **non-resident delivery estimate + deposit**; ask both employers whether group medical insurance covers delivery and whether the newborn can be added. · Assemble the birth-registration documents (both passports, marriage certificate — **plus a certified English translation if yours is in Indonesian**). · Book a **confinement nanny** if you want one (a Malaysian nanny needs an MOM Work Permit, applied from ~4 weeks before the EDD — agencies usually handle it). · Buy the big-ticket items below (cot, stroller, car seat, pump, monitor). |
-| **Week 34–36** | Wash all baby clothes/linens with baby-safe detergent. Pack the **hospital bag** (§9). Install the cot in your room, assemble and test stroller / car seat / pump. Save the paperwork folder somewhere you'll find it at 3 a.m. |
+| **Now (week 36)** | **🛂 Settle the Dependant's Pass plan:** whichever of you earns a **fixed monthly salary of at least $6,000** must be the sponsor — that parent's employer applies for the baby's DP. If neither of you is at $6,000, read §10 step 7 *now*. · **🏥 Book the hospital/OB** and get the **non-resident delivery estimate + deposit in writing**; ask both employers whether group medical insurance covers delivery and whether the newborn can be added. · Assemble the birth-registration documents (both passports, marriage certificate — **plus a certified English translation if yours is in Indonesian**). · Decide on a **confinement nanny now** if you want one (a Malaysian nanny needs an MOM Work Permit, applied from ~4 weeks before the EDD — at week 36 this is overdue; agencies usually handle it). · Buy the big-ticket items below (cot, stroller, car seat, pump, monitor). · Wash all baby clothes/linens with baby-safe detergent. Pack the **hospital bag** (§9). Install the cot in your room, assemble and test stroller / car seat / pump. Save the paperwork folder somewhere you'll find it at 3 a.m. |
 | **Week 37–40** | Rest. Stock consumables (NB + size S diapers, wipes, one backup formula tin). Set up phone contacts: paediatrician, confinement nanny, nearest 24-hr clinic / KKH A&E. Confirm who registers the birth and who goes to KBRI. |
 | **Weeks 0–2** (baby home) | **🛂 Paperwork sprint — this is the priority, before anything else:** register the birth with ICA (≤14 days) → get the baby's **Indonesian passport at KBRI** → employer applies for the **Dependant's Pass** → submit the **CDA vaccination verification**. Meanwhile: cot, feeds, diapers, sleep sacks, burp cloths. Buy consumables as you go. |
 | **Months 1–3** | Renew the CDA vaccination verification as each shot is given. Add playmat/tummy-time items, more bottles if pumping, bouncer if needed. Buy 3–6 m clothes only when baby outgrows 0–3 m. |
@@ -58,6 +57,7 @@
 | Fitted cot sheets (cotton) | 9 | ✅ Buy ×2–3 | **Never** loose blankets or quilts. Fitted sheets only. | 10–30 |
 | Swaddles / sleep sacks (0–3 m) | 9 | ✅ Buy | 2–3 lightweight muslin swaddles + 1–2 sleep sacks (TOG 0.5–1.0 for SG aircon). Prevents the "baby kicks off blanket" problem safely. | 40–100 |
 | White noise machine (or phone app) | 8 | ✅ Buy | Buy the machine only if you want offline reliability; a free phone app works too. | 0–60 |
+| Dim nightlight (warm, low brightness) | 6 | ✅ Buy | For night feeds and 3 a.m. diaper changes without fully waking the baby (or yourselves). | 10–30 |
 | Baby monitor (video or audio) | 7 | ✅ Buy | You'll room-share 6+ months, so a **basic audio** monitor is genuinely enough at first; upgrade to video when baby moves to their own room. | 50–200 |
 | Room thermometer | 6 | ✅ Buy | Small, cheap. Keep room 24–26 °C; aircon is fine in SG if baby is dressed lightly. | 10–20 |
 | Blackout curtains | 7 | ✅ Buy | Essential for daytime naps in SG's bright afternoons; renters: use tension-rod blackout panels — no drilling, removable. | 20–60 |
@@ -83,8 +83,10 @@
 | Steriliser (electric steam) or microwave sterilising bags | 8 | ✅ Buy | Electric steam steriliser with dryer is the SG standard. Microwave bags are the space-saving alternative for 689 sqft. | 30–120 |
 | Bottle brush + drying rack | 8 | ✅ Buy | Small collapsible versions exist — great for small kitchens. | 10–30 |
 | Burp cloths / muslin squares ×10–12 | 9 | ✅ Buy | You will go through 3–5 per day. Buy cheap; these double as spit-up rags, nursing covers, and bath cloths. | 20–50 |
+| Pacifiers (newborn, silicone, orthodontic) | 5 | ✅ Buy 1–2 to try | Some babies refuse them outright — don't stock up before you know yours takes one. | 5–15 |
 | Formula (1 backup tin) | 6 | ✅ Buy 1 tin | Buy **one** tin of a common brand (e.g., Similac, S-26, Friso) as insurance, not a stockpile. Expiry matters — check it. | 30–50 |
 | Bottle warmer | 4 | ⏳ Later / optional | A mug of hot water works in a pinch. Buy only if baby rejects room-temp milk. | 25–60 |
+| Insulated breast-milk cooler bag | 5 | ⏳ Later (before mum returns to work) | Only needed if pumping at work; pair with ice packs. | 20–50 |
 | High chair | 6 | ⏳ Buy at ~5–6 months | Don't buy now — it occupies space for half a year. Compact clip-on or foldable chairs suit small flats. | 50–200 |
 | Weaning gear (spoons, bowls, bibs, food maker) | 2–3 | ⏳ Later | Not needed until ~6 months. A steamer/blender you already own beats a baby food maker. | 0 |
 | Sterilised baby water | 0 | ❌ Don't buy | **SG tap water is safe to drink** — boiling once is enough for formula. Don't pay for sterilised water. | 0 |
@@ -100,6 +102,7 @@
 | Cotton balls (sterile) | 8 | ✅ Buy | For cleaning eyes/face and dabbing around the umbilical cord stump. Skip cotton buds inside the ears. Hospital usually gives a starter supply at discharge — one pack is enough. | 3–6 |
 | Diaper rash cream (zinc-based) | 9 | ✅ Buy | Apply at every change in SG's humid climate. | 10–20 |
 | Changing mat (waterproof, portable) | 8 | ✅ Buy | Floor/bed changing is best in a small flat — no changing table needed. | 15–40 |
+| Portable changing caddy / organizer | 6 | ✅ Buy | Keeps diapers, wipes, cream and cotton balls in one grab-able basket — the floor-changing setup for 689 sqft. | 15–40 |
 | Nappy/diaper bin (or reuse a lidded bin) | 7 | ✅ Buy or reuse | A cheap lidded bin + bin bags works; diaper pails are optional. | 0–60 |
 | Wet bag (waterproof, ×2) | 6 | ✅ Buy | For soiled clothes/nappies on the go. | 10–25 |
 | Baby bathtub | 8 | ✅ Buy | Collapsible tubs save serious space. An adult basin works too. | 20–60 |
@@ -109,7 +112,7 @@
 | Baby thermometer (rectal/ear) | 9 | ✅ Buy | A newborn with a fever ≥38 °C needs **immediate** medical attention — you need a reliable thermometer at 3 a.m. 🏥 Remember: no subsidy, so this is a full-rate clinic or A&E visit. | 15–50 |
 | Nasal aspirator / bulb syringe | 8 | ✅ Buy | Babies can't blow their noses; the NoseFrida-style is most effective. | 15–30 |
 | Baby hairbrush / comb | 4 | ⏳ Later | Optional; not needed at birth. | 5–15 |
-| Baby bath thermometer | 5 | Optional | Your elbow is a fine thermometer. Buy only if you want certainty. | 8–15 |
+| Baby bath thermometer | 5 | ⏳ Buy later | Your elbow is a fine thermometer. Buy only if you want certainty. | 8–15 |
 
 ---
 
@@ -123,6 +126,7 @@
 | Muslin swaddle blankets ×2–3 | 8 | ✅ Buy | Multi-purpose: swaddle, burp cloth, nursing cover, bath towel, sun shade. | 20–50 |
 | Socks / mittens / hats (minimal) | 6 | ✅ Buy minimal | SG: mittens mostly unnecessary indoors; hats for outdoors/sun. 2–3 pairs max. | 10–25 |
 | Going-home outfit (0–3 m) | 5 | ✅ Buy 1 | Cute, but any onesie works. Pick a soft, comfortable one. | 10–30 |
+| Bibs (drool / spit-up) ×4–6 | 5 | ⏳ Buy later (~2–3 months) | Burp cloths cover the first weeks; bibs matter once drooling and spit-up ramp up. | 10–25 |
 | Baby hangers + storage boxes | 6 | ✅ Buy | Under-bed boxes and foldable bins turn a 689 sqft flat into a wardrobe. | 15–50 |
 | Baby-safe laundry detergent (fragrance-free) | 8 | ✅ Buy | Use for the whole family's clothes to simplify. | 15–30 |
 | Baby clothes 3–6 m, 6–9 m | 4 | ⏳ Buy later | Buy as needed when sizes shift. Resist stocking up — babies skip sizes. | 0 (later) |
@@ -140,8 +144,9 @@
 | Stroller (lightweight, compact fold) | 9 | ✅ Buy | For SG: **light (≤7 kg), one-hand compact fold, good brakes, big sun canopy, rain cover**, narrow enough for MRT gantries and HDB lifts. Test that it fits your lift and flat door. | 300–800 |
 | Baby carrier / sling (structured, e.g., ErgoBaby) | 8 | ✅ Buy | Indispensable in SG: MRT stairs, hawker centres, and travel to Indonesia (far easier than a stroller on bad pavements). Also helps colicky babies. | 100–250 |
 | Diaper bag / backpack | 8 | ✅ Buy | A normal backpack with organisation works — no need for a "diaper bag brand." | 30–100 |
-| Travel changing mat + wet bag | 6 | ✅ Buy | Pairs with the diaper bag. | 10–25 |
+| Travel changing mat | 6 | ✅ Buy | Pairs with the diaper bag and one of the wet bags from §5. | 10–20 |
 | Stroller rain cover + clip fan | 6 | ✅ Buy | SG rains without warning; clip-on USB fans are a lifesaver for stroller naps in heat. | 15–50 |
+| Mosquito net (cot + stroller) | 7 | ✅ Buy | Dengue is a real SG risk, and a newborn can't use repellent — a fitted net for the cot and one for the stroller. | 15–40 |
 | 🛂 **Baby's Indonesian passport** | 10 | ✅ **Do first** | Get the Singapore birth certificate, then apply at **KBRI Singapore** (Portal Peduli WNI). Both parents are Indonesian citizens, so the child is an Indonesian citizen by descent — you do **not** need a "dual citizenship affidavit" (that's for mixed marriages). KBRI can complete birth registration in ~2 working days when documents are complete. **The DP cannot be issued until this passport exists.** | ~$80–150 (incl. docs) |
 | 🛂 Dependant's Pass (DP) application | 10 | ✅ **Do first** | Your sponsoring parent's **employer** applies via MOM. Requires the sponsor's fixed monthly salary ≥ **$6,000**, the baby's passport, and the CDA vaccination verification (§10). Typically ~3 weeks; can be expedited for newborns. | ~$105–225 in fees |
 | Car window sun shades | 4 | ⏳ Only if you get a car | Skip unless you buy/borrow a car regularly. | 10–30 |
@@ -159,6 +164,7 @@
 | 🏥 **Childhood vaccinations** | 8 | ✅ Do | Vaccines on the National Childhood Immunisation Schedule are **free for citizens, subsidised for PRs, full price for foreigners** — and you also need the records for the CDA verification document (§10). Budget roughly **$1,000–2,000 over the first two years**, and ask the polyclinic/GP for a non-resident package price. | see note |
 | Infant first-aid knowledge (class) | 8 | ✅ Do | ParentCraft / CPR-for-babies class — 2 hours, priceless for panic moments. | 30–100 |
 | Infant paracetamol | 7 | ✅ Buy 1 bottle | e.g., **Panadol for Children / Calpol** (paracetamol suspension) — *not* PediaSure, which is a nutrition drink. Only for **fever ≥38 °C under doctor guidance**, but have it in the cupboard, expiry-checked, before 2 a.m. | 8–15 |
+| Vitamin D drops | — | ❓ Ask your PD | SG paediatricians often recommend these for exclusively breastfed babies — get the brand and dose from your PD rather than pre-buying. | 10–20 |
 | Baby-safe first-aid kit | 6 | ✅ Buy small | Plasters, scissors, saline drops. | 10–30 |
 | Outlet covers / cabinet locks / edge bumpers | 7 | ⏳ Buy at ~5–6 months | Baby-proof right before crawling (6–9 months), not now. | 20–60 |
 | Playmat / tummy-time mat | 5 | ⏳ Buy at ~1–2 months | Foldable/rollable mats suit small flats; tummy time matters from week 1 but a folded blanket works at first. | 30–120 |
@@ -173,7 +179,7 @@
 
 ## 9. For mum (postpartum) — and the leave reality
 
-> 🛂 **Two things to sort out with HR this week, not in December:**
+> 🛂 **Two things to sort out with HR this week, not after the birth:**
 > **1. Mum's leave.** With a non-citizen child, the Employment Act gives her **up to 12 weeks of maternity leave**: the **first 8 weeks paid by the employer** (if she has ≥3 months' continuous service), the **last 4 weeks unpaid** unless her contract says otherwise. The 16-week Government-Paid Maternity Leave applies only when the child is a Singapore citizen.
 > **2. Dad's leave.** There is **no statutory paternity leave** for a non-citizen child — no 4-week GPPL, no Shared Parental Leave. His time off is whatever his contract or company policy provides. With no grandparents in town, negotiate now: annual leave, unpaid leave, or flexible work for those first two weeks.
 >
@@ -290,7 +296,7 @@
 
 ---
 
-*Last updated: September 2026. Revised for a foreign work-pass family (EP + S Pass): corrected the benefit/leave/insurance picture, added the Dependant's Pass and consular paperwork track, and fixed several factual errors (CDA co-matching caps, cot safety standards, Grab child-restraint rules, walker ban myth, paracetamol brands). Prices are indicative Singapore retail and non-resident hospital rates — always confirm current figures with the hospital, insurer, MOM/ICA and KBRI.*
+*Last updated: October 2026. Revised for a foreign work-pass family (EP + S Pass): corrected the benefit/leave/insurance picture, added the Dependant's Pass and consular paperwork track, and fixed several factual errors (CDA co-matching caps, cot safety standards, Grab child-restraint rules, walker ban myth, paracetamol brands). October 2026 revision: updated the intro and timeline for week 36 (EDD early November), added cotton balls, mosquito net, nightlight, pacifiers, bibs, changing caddy, milk cooler bag and vitamin D, and fixed minor verdict inconsistencies. Prices are indicative Singapore retail and non-resident hospital rates — always confirm current figures with the hospital, insurer, MOM/ICA and KBRI.*
 
 **Sources**
 
