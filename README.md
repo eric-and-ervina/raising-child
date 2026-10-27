@@ -11,7 +11,7 @@ A small collection of personal planning documents for a Chinese-Indonesian coupl
 | [`parenting/`](parenting/) | Values & long-term guide: [`parenting-guide-raising-a-healthy-grounded-boy.md`](parenting/parenting-guide-raising-a-healthy-grounded-boy.md) — seven family concerns, secure attachment, critical thinking, discipline without shame, age-by-age plan, 15-point family charter, Singapore resources. |
 | [`home/`](home/) | Flat & space: [`floor-plan.svg`](home/floor-plan.svg), plus future layout, storage, and safety-proofing notes. |
 | [`health/`](health/) | Future: vaccination record, PD visits, illness/sleep/growth logs, first-aid. (Guidance currently in `preparation/` §8 and `parenting/` §4.) |
-| [`food-and-feeding/`](food-and-feeding/) | Future: feeding plan, weaning (~6 months), family recipes, kitchen setup, hawker guide. (Gear in `preparation/` §4; appliances in `shopping/`; philosophy in `parenting/` §§5, 7.) |
+| [`food-and-feeding/`](food-and-feeding/) | [`breastfeeding.md`](food-and-feeding/breastfeeding.md) (first weeks, latch, diaper gauge, expressing/storage, Singapore help contacts); future: weaning (~6 months), family recipes, kitchen setup, hawker guide. (Gear in `preparation/` §4; appliances in `shopping/`; philosophy in `parenting/` §§5, 7.) |
 | [`development/`](development/) | Future: milestones, play/reading, trilingual language plan, childcare, school notes. (Age-by-age plan in `parenting/` §10.) |
 | [`admin-and-money/`](admin-and-money/) | Future: 42-day paperwork checklist, first-year budget actuals, insurance, leave plan. (Full picture currently in `preparation/` §§9–11.) |
 
