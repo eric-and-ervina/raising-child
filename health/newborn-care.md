@@ -71,6 +71,20 @@ Falls off in **1–3 weeks**. Keep it clean and dry — that's the whole job. Di
 - Smoke-free, always. Visitors who smoke: hands washed, shirt changed, before holding him.
 - Tell grandparents these rules plainly when they help — older advice was different, and "you survived" is not a safety argument.
 
+## The first weeks at home: visitors, helpers, hygiene
+
+His immune system is inexperienced and he cannot cough, blow his nose, or tell you anything. In the first weeks, the adult world is the main risk he faces.
+
+- **Hands before holding him.** Every person, every time — soap and water or sanitiser. This is not rude to ask for; it is the single most effective thing a visitor can do.
+- **No kissing his face or his hands** (his hands go straight into his mouth). Cheeks get kissed by relatives — decide now, as a couple, how you'll say no, and let Eric be the one who says it.
+- **Sick means stay away** — no exceptions, including grandparents, and including "it's just a sniffle". A cold in a 5-week-old can mean an A&E trip; the same cold in an adult is nothing. If someone has been around a sick person, that counts too.
+- **No smoking around him, and no smoke on clothes or hands.** A smoker who has just stepped out still carries it. Shirt changed, hands washed, before holding.
+- **Short visits, outside feeding and sleeping windows.** One or two people at a time, not a gathering. The confinement weeks are recovery time, not a reception.
+- **Caregivers should be current on their own vaccines** — flu, and whooping cough (Tdap) especially for grandparents who will help. Ask their GP; it protects him before he can be vaccinated himself.
+- **Don't pass him around**, and skip crowded enclosed places in the first weeks. A pram walk or a sling is fine — a sling also keeps strangers' hands off him.
+- **Older advice gets a polite wall.** "Our PD said no" is a complete answer. The practices worth refusing outright: water or rice cereal in a bottle, honey, sleeping on the stomach or in an adult bed, propping a bottle, powders or coins on the cord, tight belly-binding, and squeezing his nipples or foreskin.
+- **Ervina can decline any visit.** "Tomorrow doesn't work, come Saturday" needs no justification, and Eric's job is to be the one who says it (see [`postpartum-recovery.md`](postpartum-recovery.md) §9).
+
 ## Soothing — when he's fed, dry, and still crying: the 5 S's
 
 1. **Swaddle** (if not yet rolling) 2. **Side/stomach hold** — in your arms, awake only; never placed that way to sleep 3. **Shush** — loud continuous white noise, as loud as his crying 4. **Swing** — small rhythmic jiggle, head supported ("shivering", not rocking) 5. **Suck** — clean finger; pacifier timing: if breastfeeding is being established, most lactation advice says wait ~3–4 weeks — confirm with TMC/PD.
@@ -88,6 +102,31 @@ Cycle and combine them. Walk the corridor. Some evenings nothing works — cryin
 - **Weight:** loses up to ~7–10% of birth weight in the first days, back to 3,590 g by ~2 weeks — PD tracks it.
 - **Jaundice Day 2–4:** yellow tinge is very common; frequent feeding helps. Escalate if yellow spreads down the body, he's too sleepy to wake for feeds, or feeds poorly — see red-flags file.
 - **Soft spot (fontanelle)** on his head is supposed to be there; gentle touching in baths is fine.
+
+## Things that look alarming and usually aren't (skin, eyes, mouth)
+
+A first-time parent's night is often ruined by something that is completely ordinary. Here is the list, so you can go back to sleep.
+
+| What you'll see | What it is | What to do |
+|---|---|---|
+| **Blotchy red patches with tiny white/yellow centres**, appearing Day 2–5, moving around the face and body | Newborn rash (*erythema toxicum*) | Nothing. No cream, no panic. It comes and goes on its own |
+| **Pinhead white bumps** on the nose, cheeks, chin, often from birth | Milia ("milk spots") | Nothing — they flake away over a few weeks |
+| **Red bumps** on cheeks and forehead around weeks 3–6 | Baby acne, from maternal hormones | Wash with plain water; it settles on its own |
+| **Peeling skin**, especially hands and feet | Normal in the first weeks | Nothing; a plain moisturiser only if the PD suggests it |
+| **Flat blue-grey patches** on the lower back or buttocks | Mongolian spots — very common in Asian babies | Nothing, and tell anyone who mistakes them for bruises that they are birthmarks. They fade over years |
+| **Flat pink patches** on eyelids, forehead, nape | Stork bites / salmon patches | Nothing; they fade |
+| **A red raised mark** appearing in the first weeks | Strawberry mark (haemangioma) — grows for a few months, then shrinks | Mention at the PD visit; sooner if it's near an eye, lip, or the diaper area, or bleeding |
+| **Greasy yellow scaling** on the scalp | Cradle cap | Gentle washing, a little baby oil, a soft brush. Not contagious, not dangerous |
+| **Watery or crusty eye**, one side, no redness | Blocked tear duct — very common | Clean outer-to-inner with cooled boiled water, **separate cotton wool per eye**. Ask the PD for the massage technique |
+| **White patches** in the mouth that **don't** wipe off (milk does) | Thrush | **Same-day PD** — he needs treatment, and so do Ervina's nipples if breastfeeding |
+| **Swollen breasts or breast buds** — yes, in boys too | Maternal hormones | Nothing. **Never squeeze them** — that causes infection |
+| **Swollen scrotum**, or a testicle you can't feel, or a soft bulge that swells when he cries | Hydrocele, undescended testicle, umbilical hernia — all common and usually harmless | Mention at the PD visit. **Immediately** if the navel bulge turns hard, dark, or painful |
+| **Noisy, snuffly breathing** with no other symptoms | Tiny nasal passages and no nose-blowing | Saline drops if the PD agrees. **Never** a cotton bud inside the nose |
+| **Hiccups, sneezes, startles, grunting, straining** | All normal newborn reflexes | Nothing |
+
+**The rule for anything on his skin: if a doctor didn't suggest it, don't put it on it.** No powders, oils, herbs, or traditional applications on the cord stump, the navel, or his skin. Some regional practices — powders on the cord, coins or belts bound to the abdomen, tight belly-binding — are actively harmful, and this is the moment to say so early and kindly to any relative who offers them.
+
+**Call the same day if:** redness is spreading around a spot, there is pus or an angry-looking ring, the mark bleeds or grows fast, an eyelid goes red and swollen with pus, the scalp crusting weeps or spreads off the head, or mouth patches that don't wipe off come with feeding refusal. Anything with a fever joins [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md).
 
 ## Temperature
 

@@ -6,19 +6,20 @@ Personal planning and reference documents for a Chinese-Indonesian couple in Sin
 
 ## Start here — the newborn weeks, in order
 
-1. **Tonight / this week:** [`health/newborn-care.md`](health/newborn-care.md) — holding, diapering, cord, bathing, safe sleep, soothing, what's normal.
+1. **Tonight / this week:** [`health/newborn-care.md`](health/newborn-care.md) — holding, diapering, cord, bathing, safe sleep, soothing, what's normal, the skin/eye/mouth things that look alarming and aren't, and the visitor/hygiene rules.
 2. **Read once before you need it:** [`health/red-flags-and-emergencies.md`](health/red-flags-and-emergencies.md) — danger signs for Eldric *and* Ervina, choking/CPR, phone numbers. (≥38 °C under 3 months = hospital, immediately.)
-3. **Feeding:** [`food-and-feeding/breastfeeding.md`](food-and-feeding/breastfeeding.md) — latch, diaper-by-day gauge, problems, expressing/storage, who to call.
-4. **The clock:** [`admin-and-money/42-day-paperwork-checklist.md`](admin-and-money/42-day-paperwork-checklist.md) — birth registration by **Mon 9 Nov 2026**, Special Pass expires **Mon 7 Dec 2026**, KBRI passport + Dependant's Pass chain.
-5. **Appointments + records:** [`health/pd-visits-and-vaccinations.md`](health/pd-visits-and-vaccinations.md) — first check is the **Day 3–5 jaundice visit, Thu 29 – Sat 31 Oct 2026**.
-6. **When there's a calm hour:** [`development/first-three-months.md`](development/first-three-months.md), then the parenting guide, slowly.
+3. **Feeding:** [`food-and-feeding/breastfeeding.md`](food-and-feeding/breastfeeding.md) — latch, diaper-by-day gauge, problems, expressing/storage, who to call. If any bottle is in the picture — expressed milk, a top-up, or formula — read [`food-and-feeding/formula-and-bottles.md`](food-and-feeding/formula-and-bottles.md) **before** the first one: the ≥70 °C water rule and the exact-scoop rule are the two things a 3 a.m. mistake gets wrong.
+4. **Ervina:** [`health/postpartum-recovery.md`](health/postpartum-recovery.md) — the stitch, bleeding, pelvic floor, the 4-hour sleep block, and the baby-blues-vs-postpartum-depression screen. Eric should read it too, so he knows what's normal and what to act on.
+5. **The clock:** [`admin-and-money/42-day-paperwork-checklist.md`](admin-and-money/42-day-paperwork-checklist.md) — birth registration by **Mon 9 Nov 2026**, Special Pass expires **Mon 7 Dec 2026**, KBRI passport + Dependant's Pass chain.
+6. **Appointments + records:** [`health/pd-visits-and-vaccinations.md`](health/pd-visits-and-vaccinations.md) — first check is the **Day 3–5 jaundice visit, Thu 29 – Sat 31 Oct 2026** — and [`health/newborn-screening-and-discharge.md`](health/newborn-screening-and-discharge.md) for what the hospital did to him (Vitamin K, BCG, hearing, G6PD) and the discharge checklist.
+7. **When there's a calm hour:** [`development/first-three-months.md`](development/first-three-months.md), then the parenting guide, slowly.
 
 ## Contents
 
 | Folder | What lives there |
 |---|---|
-| [`health/`](health/) | **Start here now:** newborn care manual, red flags & emergencies, PD visits + vaccination record with Eldric's actual dates. |
-| [`food-and-feeding/`](food-and-feeding/) | [`breastfeeding.md`](food-and-feeding/breastfeeding.md) (first weeks, latch, diaper gauge, expressing/storage, Singapore help contacts); future: weaning (~6 months), family recipes, kitchen setup, hawker guide. (Gear in `preparation/` §4; appliances in `shopping/`; philosophy in `parenting/` §§5, 7.) |
+| [`health/`](health/) | **Start here now:** newborn care manual (plus the common-skin table and visitor rules), red flags & emergencies, PD visits + vaccination record with Eldric's actual dates, the hospital screening & discharge record, and Ervina's postpartum recovery + mental-health guide. |
+| [`food-and-feeding/`](food-and-feeding/) | [`breastfeeding.md`](food-and-feeding/breastfeeding.md) (first weeks, latch, diaper gauge, expressing/storage, Singapore help contacts) and [`formula-and-bottles.md`](food-and-feeding/formula-and-bottles.md) (safe prep, volumes, paced feeding, mixing breast and bottle); future: weaning (~6 months), family recipes, kitchen setup, hawker guide. (Gear in `preparation/` §4; appliances in `shopping/`; philosophy in `parenting/` §§5, 7.) |
 | [`admin-and-money/`](admin-and-money/) | [`42-day-paperwork-checklist.md`](admin-and-money/42-day-paperwork-checklist.md) — the live tick-off list with real deadlines; money/leave explanation in `preparation/` §§9–11. Future: budget actuals, insurance, leave plan. |
 | [`development/`](development/) | [`first-three-months.md`](development/first-three-months.md) — tummy time, month-by-month, play/reading, observation log. Future: milestones, trilingual language plan, childcare, school. (Long-range age-by-age plan in `parenting/` §10.) |
 | [`parenting/`](parenting/) | Values & long-term guide: [`parenting-guide-raising-a-healthy-grounded-boy.md`](parenting/parenting-guide-raising-a-healthy-grounded-boy.md) — seven family concerns, secure attachment, critical thinking, discipline without shame, age-by-age plan, 15-point family charter, Singapore resources. |
@@ -42,5 +43,6 @@ Each folder has its own `README.md` explaining what belongs there, so new notes 
 ## Status
 
 - Working drafts, maintained by hand in Markdown.
+- **27 Oct 2026 (Day 2), second pass:** closed the remaining newborn gaps — [`food-and-feeding/formula-and-bottles.md`](food-and-feeding/formula-and-bottles.md) (safe prep, volumes, paced feeding, mixed feeding), [`health/postpartum-recovery.md`](health/postpartum-recovery.md) (Ervina's recovery, pelvic floor, postpartum mental health), and [`health/newborn-screening-and-discharge.md`](health/newborn-screening-and-discharge.md) (Vitamin K, BCG, hearing, G6PD, the newborn screening record and discharge checklist). Added the common-newborn-skin table and the visitor/household-hygiene rules to `health/newborn-care.md`.
 - **27 Oct 2026 (Day 2): post-birth pass.** Closed the gap this repo had for a brand-new father: added the breastfeeding guide, newborn-care manual, red-flags/emergencies reference, PD + vaccination record with real dates, the 42-day checklist with real deadlines, and a first-three-months development file; archived `preparation/`; refreshed this README and the folder indexes. The how-to substance consolidates the `pregnancy` repo's New Dad's Course (Ch. 5, 6, 9, 10), reframed from "before the birth" to "now".
 - Sep 2026: reorganized from flat files into topic folders (`preparation/`, `shopping/`, `parenting/`, `home/`, plus `health/`, `food-and-feeding/`, `development/`, `admin-and-money/` placeholders) with `git mv` to preserve history.
