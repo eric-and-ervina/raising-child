@@ -117,7 +117,7 @@ A first-time parent's night is often ruined by something that is completely ordi
 | **Flat pink patches** on eyelids, forehead, nape | Stork bites / salmon patches | Nothing; they fade |
 | **A red raised mark** appearing in the first weeks | Strawberry mark (haemangioma) — grows for a few months, then shrinks | Mention at the PD visit; sooner if it's near an eye, lip, or the diaper area, or bleeding |
 | **Greasy yellow scaling** on the scalp | Cradle cap | Gentle washing, a little baby oil, a soft brush. Not contagious, not dangerous |
-| **Watery or crusty eye**, one side, no redness | Blocked tear duct — very common | Clean outer-to-inner with cooled boiled water, **separate cotton wool per eye**. Ask the PD for the massage technique |
+| **Watery or crusty eye**, one side, no redness | Blocked tear duct — very common | Clean **from the inner corner outward** with cooled boiled water, **separate cotton wool per eye**. Ask the PD for the massage technique |
 | **White patches** in the mouth that **don't** wipe off (milk does) | Thrush | **Same-day PD** — he needs treatment, and so do Ervina's nipples if breastfeeding |
 | **Swollen breasts or breast buds** — yes, in boys too | Maternal hormones | Nothing. **Never squeeze them** — that causes infection |
 | **Swollen scrotum**, or a testicle you can't feel, or a soft bulge that swells when he cries | Hydrocele, undescended testicle, umbilical hernia — all common and usually harmless | Mention at the PD visit. **Immediately** if the navel bulge turns hard, dark, or painful |

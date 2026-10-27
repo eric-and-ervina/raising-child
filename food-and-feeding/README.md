@@ -7,6 +7,7 @@ Feeding the baby and feeding the family. This folder answers:
 
 - [`breastfeeding.md`](breastfeeding.md) — the first weeks and beyond: how supply works, latch, diaper-by-day gauge for "is he getting enough?", engorgement / sore nipples / blocked duct / mastitis, expressing + CDC storage (with a Singapore room-temperature note), Eric's support job, and who to call in Singapore (Thomson ParentCraft, BMSG).
 - [`formula-and-bottles.md`](formula-and-bottles.md) — the bottle side: the eight safe-prep rules (≥70 °C water, level scoops, 2-hour/1-hour windows), how much per feed by day, bottle and teat hygiene, **paced bottle feeding**, mixing breast and bottle without wrecking supply, ready-to-feed, and the never-do list. **Read it before the first bottle, not after.**
+- Program layer: [`../health/first-six-weeks-program.md`](../health/first-six-weeks-program.md) — the feeding phases by week (establish → protect supply → open the door to one bottle → return-to-work ramp), the daily cycle and shift roster around feeds, and the checkpoints where you stop and verify.
 - Other food content still lives inside:
   - [`../preparation/baby-preparation-shopping-list.md`](../preparation/baby-preparation-shopping-list.md) §4 (feeding gear: pump, bottles, steriliser, formula backup tin).
   - [`../shopping/chosen-shopping-list.md`](../shopping/chosen-shopping-list.md) (kitchen appliances: Joyoung pressure cooker, AUX oven, 316L pan, steaming rack — the husband-as-月嫂 setup).
