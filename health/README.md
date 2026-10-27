@@ -5,16 +5,13 @@ Vaccines, clinics, illness, sleep, growth. This folder answers:
 
 ## Current notes
 
-- None yet — health guidance currently lives inside:
-  - [`../preparation/baby-preparation-shopping-list.md`](../preparation/baby-preparation-shopping-list.md) §8 (insurance, PD, vaccines, first-aid) and §4/§6 of the parenting guide (illness, picky eating).
-  - [`../parenting/parenting-guide-raising-a-healthy-grounded-boy.md`](../parenting/parenting-guide-raising-a-healthy-grounded-boy.md) §4 (whole-life health habits).
+- [`newborn-care.md`](newborn-care.md) — the hands-on manual: holding, diapering, cord, bathing, swaddling, safe sleep, soothing (5 S's), what's normal, and what the first days/weeks at home actually look like.
+- [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md) — baby + mother danger signs, the ≥38 °C-under-3-months rule, choking + infant CPR sequences, and the phone numbers box. Read once, keep one tap away.
+- [`pd-visits-and-vaccinations.md`](pd-visits-and-vaccinations.md) — Eldric's dated visit schedule (Day 3–5 jaundice check → 6 months), NCIS vaccination record, and weight/growth log. Foreigners pay full price; these records feed the CDA verification for his Dependant's Pass.
+- Background still in: [`../preparation/baby-preparation-shopping-list.md`](../preparation/baby-preparation-shopping-list.md) §8 (insurance, PD choice, first-aid) and the parenting guide §4 (whole-life health habits).
 
 ## Where future notes go
 
-- `vaccination-record.md` — NCIS schedule, dates, receipts (foreigners pay full price; keep records for the CDA verification renewals).
-- `pd-visits.md` — chosen PD/clinic, fee schedule, visit log (days 3–5 jaundice check, 1/2/4/6 months…).
-- `illness-log.md` — fevers, what helped, when to seek care (≥38 °C newborn = immediate care).
-- `sleep-log.md`, `growth-chart.md` — whatever tracking you actually keep.
-- `first-aid.md` — infant CPR class notes, emergency contacts (nearest 24-hr clinic / KKH A&E).
-
-Extract the relevant sections from the preparation guide here once the baby arrives — don't duplicate, link.
+- `illness-log.md` — fevers, what helped, when you sought care (≥38 °C under 3 months = immediate care — see red-flags file).
+- `sleep-log.md` — whatever tracking you actually keep, if any.
+- First-aid course notes go into the red-flags file (course date line there) once attended.

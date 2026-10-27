@@ -1,5 +1,7 @@
 # Raising a Healthy, Grounded Boy — A Parenting Guide
 
+> **Status:** written during pregnancy; Eldric was born Mon 26 Oct 2026. The philosophy and age-by-age plan (§10) are unchanged and now live — the practical 0–3 month layer sits in [`../development/first-three-months.md`](../development/first-three-months.md), and day-to-day care in [`../health/newborn-care.md`](../health/newborn-care.md).
+
 **Who this is for:** a Chinese-Indonesian couple in Singapore, expecting their first child — a boy — in about **11 weeks** (wife is in week 29 of pregnancy).
 
 **What this guide covers:** the seven things you said you want to protect your son from — or build into him:

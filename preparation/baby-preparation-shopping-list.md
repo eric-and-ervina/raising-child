@@ -1,5 +1,7 @@
 # Baby Preparation Shopping List — First Baby Boy, 689 sqft HDB, Work-Pass Family
 
+> **Status — archived at the birth:** Eldric was born Mon 26 Oct 2026 (3,590 g, vaginal, TMC). The "week 36 / EDD early November" framing below is as-written pre-birth. This file remains the reference for gear scores, the paperwork *explanation* (§10) and the money picture (§11) — but the live versions now live elsewhere: 42-day tick-off with real dates → [`../admin-and-money/42-day-paperwork-checklist.md`](../admin-and-money/42-day-paperwork-checklist.md); newborn care → [`../health/newborn-care.md`](../health/newborn-care.md); feeding → [`../food-and-feeding/breastfeeding.md`](../food-and-feeding/breastfeeding.md).
+
 **Who this is for:** a Chinese-Indonesian couple in Singapore expecting their first child (boy) in about **4 weeks** (mum is in week 36 — EDD **early November 2026**). Both parents are **Indonesian citizens here on work passes: dad holds an Employment Pass, mum an S Pass**. They are about to rent a **689 sqft, partially furnished HDB flat** — intentionally under-furnished so it doesn't feel cramped.
 
 **What this document does:** lists what to buy (and what to skip), each item scored **0–10** for importance, with a **Buy / Buy later / Borrow / Skip** verdict, indicative prices in SGD, and Singapore-specific notes — plus a **paperwork track with legal deadlines (§10)** and a realistic cost picture for a foreign family (§11).

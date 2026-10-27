@@ -1,7 +1,9 @@
-# Preparation (pre-birth planning)
+# Preparation (pre-birth planning) — ARCHIVED 26 Oct 2026
 
-Time-bound planning for the weeks before birth. This folder answers:
+Time-bound planning for the weeks before birth. This folder answered:
 "What must be ready before the baby arrives?"
+
+> **Eldric was born Mon 26 Oct 2026 — this folder is now archive/reference.** Its live topics have moved to their own folders: newborn care + emergencies → [`../health/`](../health/), feeding → [`../food-and-feeding/`](../food-and-feeding/), the 42-day paperwork (real dates, tick-off) → [`../admin-and-money/42-day-paperwork-checklist.md`](../admin-and-money/42-day-paperwork-checklist.md). Keep this folder for the reasoning and the gear scores; don't run the newborn weeks out of a week-36 document.
 
 ## Current notes
 
