@@ -50,6 +50,9 @@ Little and often beats one long session he hates. After a feed is the wrong time
 | | | First coo / "conversation": |
 | | | First roll (which way?): |
 
+**From ~3 months this log continues in [`milestones.md`](milestones.md) §8** — the monthly snapshot and the log of firsts, with the "ask the PD if not by" ages next to them.
+
+
 ## When to raise it at the PD — not emergencies, just don't sit on them
 
 Mention at the next PD visit (sooner if several stack up): **not** making eye contact / not tracking faces by ~2 months · no social smile by ~2 months · no response to loud sounds or to familiar voices · very stiff or very floppy tone, or a strong one-sided preference (always turning/using one side only) · head control not progressing across Month 2–3 · feeding or growth concerns at any point. Anything acute (fever, breathing, won't wake) is *not* this list — that's [`../health/red-flags-and-emergencies.md`](../health/red-flags-and-emergencies.md), immediately.

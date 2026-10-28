@@ -2,6 +2,8 @@
 
 > **Read this once now, bookmark it on your phone, and put the numbers box on the fridge.** In a real emergency you won't be calm enough to search.
 > Consolidates the `pregnancy` repo's [Course Ch. 10 — Emergencies](https://github.com/eric-and-ervina/pregnancy/blob/main/course/10-emergencies.md). *Education, not medical advice. When in doubt, call — nobody at an emergency department judges a first-time parent for being careful.*
+>
+> **Everything that is *not* an emergency lives in [`illness-care.md`](illness-care.md)** — the snuffly nose, the posset, the rash, the vaccination reaction, and what is safe to do at home. This file is the go-now list only; that one is the sick-day manual. If you're not sure which you're in, run the 60-second check in [`illness-care.md`](illness-care.md) §1.
 
 ---
 

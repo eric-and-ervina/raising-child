@@ -1,7 +1,7 @@
 # Care Techniques — Step by Step
 
 > **For:** Eric + Ervina, zero experience assumed. Eldric, born Mon 26 Oct 2026 (3,590 g, TMC). This is the **hands** file: the physical skills, in numbered steps, for the tasks that don't yet have instructions anywhere else in the repo.
-> **Use it:** read the section *before* the first time you attempt the task, with the baby in the other parent's arms — not one-handed at 3 a.m. The rules behind these techniques are in [`dos-and-donts.md`](dos-and-donts.md); holding, diapering, cord care, bathing basics, safe sleep and the 5 S's are already in [`newborn-care.md`](newborn-care.md); feeding technique is in [`../food-and-feeding/breastfeeding.md`](../food-and-feeding/breastfeeding.md) and [`../food-and-feeding/formula-and-bottles.md`](../food-and-feeding/formula-and-bottles.md).
+> **Use it:** read the section *before* the first time you attempt the task, with the baby in the other parent's arms — not one-handed at 3 a.m. The rules behind these techniques are in [`dos-and-donts.md`](dos-and-donts.md); holding, diapering, cord care, bathing and safe sleep are summarised in [`newborn-care.md`](newborn-care.md) and expanded into full steps here; getting him to *stay* asleep is [`night-and-sleep.md`](night-and-sleep.md); feeding technique is in [`../food-and-feeding/breastfeeding.md`](../food-and-feeding/breastfeeding.md) and [`../food-and-feeding/formula-and-bottles.md`](../food-and-feeding/formula-and-bottles.md).
 > *General information, not medical advice. Ask a TMC nurse or the PD to watch you do any of these once — a 2-minute correction beats a week of doing it wrong.*
 
 ---
@@ -11,13 +11,52 @@
 1. **One hand on him, always.** Flat surface, not a bed he can roll off. If you must step away, he comes with you or goes in the cot.
 2. **Wash your hands before every hold and every change** — 20 seconds, soap, including backs of hands and between fingers; sanitiser (≥60% alcohol) if you can't get to a sink. Same for anyone else who touches him.
 
-## 1. Picking up and putting down
+## 1. Holding him — pick-up, the four holds, and how to still be holding him an hour later
+
+### 1.1 Picking up and putting down
 
 **Up:** slide one hand under his head and neck (fingers spread, thumb and fingers on either side of the neck), the other under his bottom → bring him close to your chest → lift, keeping head higher than body → settle his head into the crook of your elbow or against your shoulder.
 
-**Different holds:** cradle (head in elbow crook), shoulder (chest-to-chest, one hand behind head), football/clutch (body under your arm, head in your hand — best right after a feed or with a sore tummy), lap/colic hold (face-down along your forearm, head to the side, awake only).
+**Down:** bottom first, then back, head last; keep your hand under his head until it's on the mattress; slide hands out slowly. **After a feed:** keep him upright on your shoulder for 15–20 minutes if he spits up a lot, then cot. The full sleep-transfer version (warm sheet, stillness, staged withdrawal) is in [`night-and-sleep.md`](night-and-sleep.md) §2.1 — this is the mechanical part.
 
-**Down:** bottom first, then back, head last; keep your hand under his head until it's on the mattress; slide hands out slowly. **After a feed:** keep him upright on your shoulder for 15–20 minutes if he spits up a lot, then cot.
+### 1.2 The four holds, and which to use when
+
+| Hold | How | Best for | Watch for |
+|---|---|---|---|
+| **Cradle** | Head in the crook of your elbow, forearm along his back, other hand free | Feeding, carrying around the flat, showing him to someone | His head can slide down the crook — keep your forearm slightly tilted up |
+| **Shoulder (upright)** | Chest against your chest, his chin above your shoulder (never pressed into it), one hand behind his head, one under his bottom | **Burping, winding, the evening crying peak, walking** — the most effective and the least tiring | Don't let his chin drop to his chest; keep his nose clear of your shirt |
+| **Football / clutch** | Body tucked under your arm along your side, head in your hand, back along your forearm | Right after a feed, a sore or gassy tummy, twin-style transfers, caesarean recovery | Supports the body but **not** the head as firmly — keep your hand cupped under the skull |
+| **Lap / colic hold** | Face-down along your forearm, head turned to one side, your hand between his legs | Gas, a hard crying bout, a tired arm | **Awake and supervised only.** Never a sleep position |
+
+### 1.3 Holding him for an hour (the real skill)
+
+Nobody tells you that the hard part isn't lifting him — it's that at 9 p.m. you will hold him, walking, for **60–90 minutes**, on no sleep, with a sore back. Make it survivable:
+
+- **Sit before you're tired, not after.** The first 10 minutes of a hold decide whether your shoulders survive it.
+- **Elbows in, baby on your sternum.** Carry him high and close, not hanging off your forearms — that's the difference between a 10-minute and a 60-minute hold.
+- **Feet flat, knees under your hips, back supported** if you're sitting on the sofa. A cushion under each elbow (or the feeding pillow) takes the whole weight off your arms.
+- **The feeding pillow is a holding tool too**, not just for feeds.
+- **The yoga/birthing ball** saves your back for bouncing — and it's quieter than walking the corridor at 2 a.m.
+- **The sling/carrier is the answer for anything over 20 minutes** ([`night-and-sleep.md`](night-and-sleep.md) §4, fit in §11 below). Hands free, back supported, both of you warmer and calmer. Learn to put it on alone, in the dark, before you need it.
+- **Swap holds every 15–20 minutes** — cradle → shoulder → football — so no single set of muscles does the whole hour.
+- **Never hold him while you're drowsy.** The rule and the protocol are in [`night-and-sleep.md`](night-and-sleep.md) §4.1 — this is the one place where being tired can kill him.
+
+### 1.4 Passing him to another person
+
+Most drops in the first months happen in a handover, not a lift.
+
+- **Say it out loud:** "I'm passing him to you now" — and the receiver says "I've got him" **before** the hands change over.
+- **Both people support him for a full second** — receiver's hand on the head/neck and bottom first, then the giver lets go.
+- **Never pass him over a hard floor or a doorway**, and never across a table or a hot drink. Sit down, or hand over at the cot.
+- **Nobody takes him out of a cot or off a bed without saying so** — especially with visitors, and especially in a room where someone is half asleep.
+- **Never pass him to someone who has been drinking, is sick, or is angry**, however much they want to hold him. "Not right now" is a complete sentence.
+
+### 1.5 Holding a baby who is arching, stiffening, or fighting you
+
+- **Firm beats gentle.** A crying newborn arching backwards will feel worse if you hold him loosely. Wrap him close, hand spread across his upper back and shoulders, and hold **still**.
+- **Turn him away from the room**, not into your chest — he needs air and a clear nose.
+- **Never hold him by the arms or around the ribs while he arches.** Support the head and the bottom; let the arch happen.
+- **If he's arching away from the breast or bottle with a red face:** stop feeding, sit him upright, and burp ([`crying-and-soothing.md`](crying-and-soothing.md) §9.1).
 
 ## 2. Swaddle — the 5-step version
 
@@ -30,6 +69,26 @@ Every swaddle fails in the same place: too tight at the hips, too loose at the c
 5. Bring the right corner across and tuck it under his left side.
 
 **Check:** two fingers slide under the chest fabric (snug, not tight); his legs can still bend at the knees; hands can reach his mouth if he works at it; no fabric over his chin or nose. **Stop swaddling at the first sign of rolling (~2–4 months)** — unwrap one arm first for a few nights, then switch to a sleep sack.
+
+### 2.1 When the swaddle doesn't work (the four real problems)
+
+| Problem | Why | Fix |
+|---|---|---|
+| **He screams harder when you swaddle him** | Either it's too loose (so the startle still fires and he feels trapped), or he's already past the point | Re-swaddle **firmly** — arms pinned to his sides, chest snug, then hold him **still** for 2 full minutes before adding anything else. Half-hearted swaddling is the worst of both worlds |
+| **He gets an arm out in under a minute** | Blanket too small, or the tuck is shallow | Use a bigger muslin (**at least 120 × 120 cm**); tuck the first corner right **under his far side and bottom**, not just under the shoulder. A velcro/Halo-style swaddle is legitimate and much faster at 3 a.m. |
+| **He's sweaty, flushed, or hot in it** | Singapore + a muslin + your body heat + aircon off | Use a **single thin muslin or a 0.5 TOG sack**, no hat, no extra layer underneath, room 24–26 °C. **Check the back of his neck**, not his hands. Overheating is a SIDS risk, and a hot baby cries more ([`newborn-care.md`](newborn-care.md)) |
+| **He fights it every single time** | Some babies genuinely hate the feeling of pinned arms | Try **arms-out** or **one arm out** for sleep; try swaddling only the body; try a sleep sack with a snug chest. Keep the hips loose either way. You are allowed to stop swaddling — the startle will wake him a bit more, and that's a fair trade |
+
+**Never:** swaddle so tight the hips can't flex (hip dysplasia), pin the legs straight, cover the head or chin, put a swaddle over the car-seat harness, or swaddle a baby who has started rolling.
+
+### 2.2 Coming off the swaddle (2–4 months)
+
+1. **Watch for the first roll** — tummy-to-back or back-to-tummy, even once, even on your bed.
+2. **One arm out for 3–4 nights**, starting with the arm he doesn't sleep on.
+3. **Then both arms out**, still using the sack around the body.
+4. **Sleep sack from then on** — the same TOG rating you were using.
+
+Expect 2–4 worse nights. That's the cost of the transition, not a sign you did it wrong. **A rolling baby in a swaddle is the actual danger**; a tired week is not.
 
 ## 3. Burping — three positions, two minutes each
 
@@ -53,6 +112,41 @@ Already in [`newborn-care.md`](newborn-care.md) — condensed here so this file 
 6. Set him down safely, wash hands.
 
 **Count it:** every wet and dirty diaper for the first weeks — it is the feeding evidence the PD asks for ([`../food-and-feeding/breastfeeding.md`](../food-and-feeding/breastfeeding.md) §4).
+
+### 4.1 The station (set it up once)
+
+**Change him on the floor, on a mat, for the first weeks.** In 689 sqft with a wriggling newborn, a raised surface means one hand is always on him and the other is doing the work alone — and the falls happen in the half-second you reach for a wipe. The floor is not a compromise; it's the safer default until he can be trusted not to roll.
+
+Everything within arm's reach, before you start: **clean diaper open and ready · wipes (or cotton wool + warm water) · barrier cream · a cloth or wipe for the boy's front · the bin · a spare grow suit.** If you have to stand up mid-change, you're already doing it wrong.
+
+### 4.2 The four changes that are harder than the diagram
+
+| Situation | What to do |
+|---|---|
+| **Meconium (Days 1–3)** — black, tarry, glue-like, and it does not wipe off | **Oil first.** A little baby oil or petroleum jelly on the cotton wool (or on his bottom) dissolves it; dry wipes just smear it. Expect 3–5 a day, and expect it on the diaper, the grow suit, and you. A wipe warmer is unnecessary; warm water on cotton wool is cheaper |
+| **A blowout** (up the back, out the legs) | Do **not** undress him over his head — that's how it ends up in his hair. Wipe what you can **while he's still on the mat**, then slide the dirty suit **down** his body and off his feet. Have the clean suit already open and underneath him before you start. If it's on his hands, wipe them before they reach his mouth |
+| **He pees mid-change** | Cover his front with a cloth **the second** the diaper opens — cool air triggers it almost every time. If it lands on him, wipe and dry the skin; if it lands on the wall, laugh and move on. It stops being funny around week 3 |
+| **He poos while you're wiping** | Wait 10–20 seconds for it to finish, then wipe once, front to back, and don't chase it. If it's a real stream, put the clean diaper under him **first** and catch it there. Never hold his legs up high and wait — that's how the mess travels |
+
+### 4.3 When the diaper leaks (it's almost always fit, not the diaper)
+
+| Leak pattern | Cause | Fix |
+|---|---|---|
+| **Up the back** | Back edge too low, or the diaper is too small | Back edge up to **belly-button level or slightly above**; size up if the tabs barely reach the landing zone |
+| **Out the legs** | **Leg cuffs folded in** — the most common mistake in the first week | Run a finger around each leg opening and flick the cuff **outward** so it forms a seal |
+| **Front, in a boy** | Penis pointing sideways or up | Point him **down** before closing the diaper |
+| **Red marks on the thighs** | Tabs too tight | One finger should slide under the waistband and each leg |
+| **Constant small leaks overnight** | Nappy changed too rarely, or a wet nappy left too long | Change before the long stretch; a bigger night size is fine once he's past ~4 kg |
+
+**Never** make a diaper tighter to stop a leak, and never use two diapers at once.
+
+### 4.4 Rashes, and what actually fixes them
+
+Most newborn rash is **wetness sitting too long**. The routine: change promptly → **pat** dry, don't rub → **10–15 minutes of air** on a towel when you can → a **thin** zinc-oxide barrier at the first redness (thick paste only if the skin is broken).
+
+**Same-day PD** if: it's bright red with satellite spots (thrush), blistered, bleeding, spreading despite 2 days of barrier cream, or he screams at every change.
+
+**At night:** change the dirty ones, leave a wet one until after the next feed, keep the light dim, and don't unswaddle the top half ([`night-and-sleep.md`](night-and-sleep.md) §2.4).
 
 ## 5. Bathing — sponge bath, then tub
 

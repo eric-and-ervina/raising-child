@@ -57,6 +57,8 @@ Count in 24 hours. This table matters more than how long a feed lasted or how fu
 
 **Weight:** losing up to ~7% of birth weight in the first days is common; **>10% loss, still losing at Day 5, or not back to 3,590 g by ~2 weeks = call the paediatrician / lactation consultant promptly.** Don't wait for the next scheduled visit.
 
+**The full numbers are in [`../health/weight-and-growth.md`](../health/weight-and-growth.md)** — his expected track pre-filled from 3,590 g, the thresholds that need a call, how to weigh at home (and why you shouldn't weigh daily), how to tell intake without a bottle, and the ml/kg volume maths. **Reminder of the four things that are *not* evidence of low supply:** how often he cries, how long he feeds, how soft your breasts feel, and **how much you pump**.
+
 **Call promptly if:** far fewer diapers than the table by Day 4–5, baby too sleepy to wake for feeds, jaundice spreading / deepening yellow with poor feeding, no stool in 24h in the first days, or persistent vomiting (projectile, green/bile, or blood — that last group is urgent).
 
 ## 5. Common problems — fix early, don't push through
@@ -68,6 +70,7 @@ Count in 24 hours. This table matters more than how long a feed lasted or how fu
 | **Blocked duct** | A tender lump / wedge that doesn't clear after a feed | Keep feeding on that side, gentle warmth before feeds, vary positions so different ducts drain, rest. Don't stop feeding on that side | Lump + fever / flu feeling / spreading redness → mastitis pathway below |
 | **Mastitis** | Red, hot, painful wedge + **fever, chills, flu-like ache** | — | **Same day: GP / doctor.** Usually needs prompt treatment (often antibiotics). **Keep feeding / expressing unless told otherwise** — stopping makes it worse |
 | **Worries about low supply** | Constant feeding alone ≠ low supply — check §4 first (diapers + weight are the evidence) | More frequent, effective removal (feeds + check latch); rest, food, fluids for Ervina | Poor weight gain or low diaper counts → lactation consultant / PD before adding regular top-ups, so top-ups don't quietly cut supply further |
+| **Oversupply / forceful let-down** | Milk sprays or drips fast; he pulls off coughing, splutters, clamps down; very gassy and arching after feeds; green watery/frothy stools; engorgement that doesn't settle; recurring blocked ducts | Laid-back / semi-reclined feeding so gravity slows the flow; feed **one side per 2–3 hour block** so the breast empties before switching; **don't pump extra** (pumping "to empty" tells the body to make more); hand-express a little if the let-down is overwhelming him | Recurring blocked ducts or mastitis, weight well above the curve, or it isn't improving in a week → lactation consultant. **Don't** cut feeds or switch to formula to "reset" |
 | **Sleepy baby / won't latch** | Misses cues, falls asleep minutes into feeds | Skin-to-skin, undress him for feeds, nappy change mid-feed, express colostrum and feed by spoon/syringe if he won't latch in the first 24h | Repeatedly unable to wake/feed, or jaundice + sleepiness → PD promptly |
 | **Possible tongue-tie** | Persistent shallow latch, clicking, nipple damage despite good positioning, poor transfer | Ask for an oral check — TMC lactation / PD | Don't self-diagnose; a check is quick and settles it |
 

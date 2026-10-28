@@ -2,7 +2,7 @@
 
 > **For:** Eric + Ervina, and whoever is holding Eldric (born Mon 26 Oct 2026). Zero experience assumed. **Use at 3 a.m. with one hand.**
 > **What this is:** the complete file for "he will not stop crying" — the medical screen, the cause checklist, every soothing technique with its failure modes, the evening-peak protocol, colic and its look-alikes, the parent-side plan, and the log that turns a bad night into data for the PD.
-> **Companion files:** the one-line summary is in [`newborn-care.md`](newborn-care.md) §Soothing; the rule table is in [`dos-and-donts.md`](dos-and-donts.md) §Soothing; the hands-on skills (swaddle, holds, burping) are in [`care-techniques.md`](care-techniques.md); danger signs and phone numbers are in [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md).
+> **Companion files:** the one-line summary is in [`newborn-care.md`](newborn-care.md) §Soothing; the rule table is in [`dos-and-donts.md`](dos-and-donts.md) §Soothing; the hands-on skills (swaddle, holds, burping) are in [`care-techniques.md`](care-techniques.md); danger signs and phone numbers are in [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md). **Once the crying stops and you have to get him into a cot — or he cries every time you put him down — that's [`night-and-sleep.md`](night-and-sleep.md)**: the lay-down technique, the cot ladder, and what is and isn't safe when he'll only sleep on a person. This file is about the crying; that one is about the night.
 > *General information, not medical advice. Your PD overrides anything here. Written Day 3, 28 Oct 2026.*
 
 ---
@@ -317,7 +317,7 @@ The one-liner is in [`newborn-care.md`](newborn-care.md). Here is the version th
 |---|---|---|
 | He cries harder when swaddled | Too loose, or he's already past the point | Re-swaddle firmly, arms in, then hold still for 2 minutes |
 | Shush makes him worse | Too loud/sharp, or he's overstimulated | Quieter, slower, one sound only |
-| He calms in arms, screams on put-down | He's not in deep sleep yet, or the cot is cold | Hold 10–15 min until limp, warm the sheet, hand on chest, wait 2 minutes before leaving |
+| He calms in arms, screams on put-down | He's not in deep sleep yet, or the cot is cold | Hold **15–20 min until the arm hangs limp**, warm the sheet, hands **still** on him for 30 s, withdraw in stages — the full 7-step sequence is [`night-and-sleep.md`](night-and-sleep.md) §2.1, and the cot ladder is §2.2 |
 | It worked for 10 minutes then failed | Normal — the effect wears off | Repeat the same technique, don't switch everything |
 | Nothing works at all | Possibly pain, illness, or the 6-week peak | §1.3 check, then §13 tag-team, then call the PD |
 
@@ -612,7 +612,7 @@ Then the other person **takes him and walks** — no questions, no "what did you
 |---|---|
 | Rage, shaking, or a thought of hurting him that shocks you | **Put him down safely. Walk out. Call someone.** Tell your partner tonight, not "when things calm down" |
 | Thoughts of harming yourself, or that he'd be better off without you | **Call SOS 1-767 (24 h) or IMH 6389 2222 now.** This is a medical symptom, not a failing |
-| Can't sleep even when he sleeps; can't eat; crying every day; feel nothing for him | Tell the PD at the next visit — postpartum depression/anxiety screening ([`postpartum-recovery.md`](postpartum-recovery.md) §10) |
+| Can't sleep even when he sleeps; can't eat; crying every day; feel nothing for him | Tell the PD at the next visit — postpartum depression/anxiety screening ([`postpartum-recovery.md`](postpartum-recovery.md) §6) |
 | You're the one who nearly snapped, and you're ashamed | Say it out loud to your partner and to the PD. Shame kept silent is the risk factor; shame spoken is a safety plan |
 | A visitor or helper is frustrated with him | Take him back. Immediately. No explanation needed |
 

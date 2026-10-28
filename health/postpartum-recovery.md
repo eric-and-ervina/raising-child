@@ -60,6 +60,58 @@ Sleep deprivation is not a badge; it is a direct risk factor for low mood, poor 
 - **"Sleep when the baby sleeps"** is good advice delivered badly. A better version: **whichever parent is off-duty does not do chores instead** — rest is the task.
 - **If it all breaks down** — she is awake all night with a crying baby and a sleeping partner — that is the moment to call in the grandparents or spend money on help. It is a resource problem, not a willpower problem.
 
+### 5.1 Why four hours, and not "rest"
+
+Sleep after birth is a different problem from ordinary tiredness, and it deserves its own section because it is **one of the most modifiable risk factors for postpartum depression** — and because it is a physical-safety issue in a flat with a newborn.
+
+- **Fragmented sleep is not the same as less sleep.** A person woken every 45 minutes can spend eight hours in bed and still get almost no **deep sleep**, because deep sleep needs an uninterrupted stretch to arrive. That's why "I was in bed for six hours" and "I got six hours" feel different — and why **one 4-hour block beats eight broken hours**, every time.
+- **Sleep debt is cumulative and it does not announce itself.** It shows up first as **irritability and a flat mood**, then as poor memory and word-finding, lowered pain tolerance (her stitch will hurt more), worse healing, and a shorter fuse with everyone. By the time she "feels terrible", she is several nights deep.
+- **It affects feeding indirectly.** Sleep loss does not usually reduce milk supply — supply is driven by removal — but it makes **let-down harder and feeds feel worse**, which is often read as "my supply is dropping". It usually isn't.
+- **It is a safety issue.** Falling asleep while feeding on a chair or sofa with a newborn is one of the highest-risk scenarios in [`night-and-sleep.md`](night-and-sleep.md) §4. **A mother who keeps dozing off with him is not careless — she is sleep-deprived, and the fix is the roster, not a warning.**
+- **She will under-report it.** "I'm fine" is the default answer from someone whose job it now is to keep a baby alive. **Eric's job is to count her sleep, not ask about it.**
+
+### 5.2 The triage ladder
+
+**Tonight** — when she has had under 4 hours unbroken for two nights running:
+
+1. **She goes to bed and the door shuts.** Not "resting on the sofa where she can hear him". Earplugs, or the far room, or a fan for white noise.
+2. **Eric owns the whole cycle, not the burp.** If she is breastfeeding, he brings the baby to her **only for the feed** and takes him back the moment she's done — she does not get up, does not change him, does not resettle him. If a bottle is established (week 3+), **Eric takes one entire feed** and she sleeps through it ([`first-six-weeks-program.md`](first-six-weeks-program.md) §3, Phase B).
+3. **The monitor goes with the parent who is on duty.** If Eric has the baby, the baby monitor is not in her room. Listening for him is the thing that stops her sleeping.
+4. **One block, not three naps.** Four uninterrupted hours. A nap on the sofa while the baby naps does not substitute.
+
+**This week:**
+
+- **Rewrite the roster so that her block is a fixed time**, not "whenever" ([`first-six-weeks-program.md`](first-six-weeks-program.md) §3).
+- **Bring in a third adult for one block a day** — grandparent, helper, a friend on a rota. The 09:00–13:00 block is the easiest to hand over.
+- **Move the bottle forward** if it was planned for later. One bottle a day at weeks 3–4 buys her a real 4–5 hour stretch ([`../food-and-feeding/formula-and-bottles.md`](../food-and-feeding/formula-and-bottles.md) §6).
+- **Decide what gets dropped.** In a 689 sqft flat with a newborn, something goes: the tidiness standard, the cooking from scratch, the visit you said yes to. **Choose it on purpose so it isn't chosen by exhaustion.**
+
+**This month:**
+
+- If the 4-hour block has not happened on most days, **the plan has failed, not her.** That's the tripwire in [`first-six-weeks-program.md`](first-six-weeks-program.md) §10: change the roster, call in help, or spend money on it.
+
+### 5.3 What does not count as rest
+
+- **Chores with the baby asleep** — laundry is not sleep, and "I'll just do one load" is how a block disappears.
+- **Scrolling in bed.** It delays sleep onset and, at 3 a.m., it fills the gap where sleep should be with other people's opinions about babies.
+- **"Sleep when the baby sleeps"** delivered as an instruction. It works when someone else is holding the baby; it is close to useless when she is the one listening for him.
+- **Hosting.** A visitor during her sleep window is not company, it's work (§9).
+- **Caffeine after 2 p.m.** Half-life of 5–6 hours: a 4 p.m. coffee is still a quarter in her system at 2 a.m.
+
+### 5.4 When sleep debt has become a medical problem
+
+The line between "shattered" and "unwell" is not how tired she feels. It's these:
+
+| What you notice | What it means | What to do |
+|---|---|---|
+| **Can't sleep even when the baby is asleep and someone else has him** — for 2+ weeks | Insomnia is a core symptom of PPD, not a cause of it | **Ask Dr Paul for the EPDS (§6) and say this sentence out loud** |
+| **Falling asleep without warning** — mid-sentence, mid-feed, standing | Severe sleep debt or an underlying condition | **Restructure tonight** (§5.2), and tell the PD or her GP this week |
+| **Confusion, not sleeping at all, hearing or seeing things, strange beliefs** | Postpartum psychosis — an emergency | **995 now** (§6) |
+| **Thoughts of harming herself or the baby** | An emergency, regardless of how calm she seems | **SOS 1-767 / IMH 6389 2222 / 995** — now, not tomorrow |
+| **Dreading the nights, panic at 6 p.m.** | Anticipatory anxiety, very common and treatable | Tell the PD; it responds to support and treatment, and it does not mean she's failing |
+
+**The one line for Eric:** when she says "I'm fine", the correct response is not to argue. It's *"I've got him from ten to two, go and shut the door"* — and then to actually do it, including getting up, including the nappy, including the resettle.
+
 ## 6. Her mental health — the part that is easiest to miss
 
 **Baby blues** are the baseline, not a warning sign: up to 8 in 10 mothers get tearful, irritable, and overwhelmed, typically peaking around **day 3–5** and settling by about **2 weeks**. They need rest, food, and company — not treatment.

@@ -40,6 +40,7 @@
 | Stop swaddling at the first sign of rolling (~2–4 months) | Swaddle a baby who can roll | He can end up face-down with no free arms |
 | Feeds at night in a dim room, boring and quick; bright, chatty days | Play or long chats at 2 a.m. | Day/night confusion is made worse by a 24-hour party |
 | A crying baby in a cot is safe — walk away to breathe | Hold him while you're falling asleep | Dropping/rolling onto him is a real cause of death |
+| Won't be put down? Swaddle, wait for the **limp arm**, warm the sheet, hands still, withdraw in stages ([`night-and-sleep.md`](night-and-sleep.md) §2) | Sleep with him on your chest overnight, or in your bed "just tonight" | Chest-sleeping and bed-sharing are the commonest setups for a sleep-related death in the first months |
 
 ## Feeding
 
@@ -54,6 +55,7 @@
 | Formula: make one, feed one, wash one | Microwave, reheat twice, or dilute/concentrate | Hot spots scald; wrong dilution is dangerous |
 | Wash and sterilise bottles and teats; air-dry, don't tea-towel | Leave milk residue sitting overnight | Fast bacterial growth in a warm climate |
 | If a top-up is needed: breast first, bottle after | Replace breastfeeds with bottles if you want supply to hold | A bottle replacing a feed tells the body to make less |
+| Know the two numbers: back to **3,590 g by Day 14**, then ~25 g/day; **6+ wet, 3+ dirty** a day from Day 5 | Panic-weigh daily, or trust the bathroom scale | A single reading is noise; the weekly trend and the nappy count are the evidence ([`weight-and-growth.md`](weight-and-growth.md) §1–§2) |
 
 ## Cord, skin, and body care
 
@@ -87,6 +89,8 @@
 | **Rectal/armpit ≥38.0 °C under 3 months → hospital now** | Give paracetamol and "see how tonight goes" | Newborns deteriorate fast and show it poorly |
 | Call if unsure — TMC 6250 2222, KKH 6225 5554, 995 for emergencies | Worry about being a nuisance | Nobody is surprised by a first-time parent calling |
 | Treat "off" behaviour as a sign: won't wake, refusing 2 feeds, fewer than 6 wet diapers from Day 5 | Wait for him to look really sick | Behaviour changes come before obvious illness in newborns |
+| Snuffly nose: saline drops → suction → small frequent feeds → upright 20 min, awake | Cough/cold syrups, decongestants, Vicks, camphor, menthol, essential oils, honey under 12 months | **Nothing for a cold under 2.** These don't work and have caused infant seizures and deaths ([`illness-care.md`](illness-care.md) §3.2) |
+| A vaccination reaction: cuddles, feeds, sleep, a cool cloth on the site | Rub the injection site, or use paracetamol to "keep the fever down" | A fever ≥38 °C under 3 months is still the hospital rule, jab or no jab ([`illness-care.md`](illness-care.md) §7) |
 
 ## Outings and travel
 
@@ -116,6 +120,8 @@
 | Accept help as tasks: cook, laundry, hold him while you sleep | Accept "help" that means hosting | Help that doesn't reduce load isn't help |
 
 **Full playbook:** [`crying-and-soothing.md`](crying-and-soothing.md) — the 60-second screen, the cause sweep, all the techniques, the 5–11 p.m. peak, colic vs reflux, and the safe-put-down plan when you're the one who's fraying.
+
+**And when the crying stops but he won't be put down:** [`night-and-sleep.md`](night-and-sleep.md) — the lay-down technique, the cot ladder, the night protocol, and the safe/unsafe answer to "he'll only sleep on a person".
 
 ## Advice to refuse, politely and early
 

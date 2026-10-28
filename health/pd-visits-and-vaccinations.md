@@ -54,7 +54,9 @@ Hospital doses are normally given before discharge at TMC — **record what was 
 | | 1 month | | | | |
 | | 2 months | | | | |
 
-Benchmarks the PD is watching: back to birth weight by ~10–14 days; steady gain after. A dip is data, not failure — bring the feed/diaper log.
+Benchmarks the PD is watching: **back to 3,590 g by Day 10–14**, then ~20–30 g/day in the first month. A dip is data, not failure — bring the feed/nappy log.
+
+**The numbers to expect at each of these dates, the thresholds that mean a same-day call, and the home-weighing method are in [`weight-and-growth.md`](weight-and-growth.md) §1–§2.** This table is the official record — copy the PD's readings here the same day, including the length and head circumference, because the curve needs all three.
 
 ## Visit notes
 

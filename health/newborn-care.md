@@ -67,6 +67,7 @@ Falls off in **1–3 weeks**. Keep it clean and dry — that's the whole job. Di
 - **Back to sleep, every sleep.** Naps and nights, no exceptions.
 - **Bare cot:** firm flat mattress, fitted sheet, sleep sack. No pillows, blankets, toys, bumpers, or positioners.
 - **Room-share, don't bed-share:** in your room 6–12 months (already your setup). Never sleep with him on a sofa or armchair — if you're so tired you might drop off holding him, put him in the cot first. **A crying baby in a cot is safe; a sleeping baby in your arms on a sofa is not.**
+- **The cot is warmed, the noise is running, and you wait for the limp arm before you lay him down** — the full transfer technique, the cot ladder, and the protocol for when you feel yourself falling asleep holding him are in [`night-and-sleep.md`](night-and-sleep.md) §2 and §4.
 - Room comfortable for a lightly dressed adult; check his neck for sweat.
 - Smoke-free, always. Visitors who smoke: hands washed, shirt changed, before holding him.
 - Tell grandparents these rules plainly when they help — older advice was different, and "you survived" is not a safety argument.
@@ -93,6 +94,8 @@ Cycle and combine them. Walk the corridor. Some evenings nothing works — cryin
 
 **When it's more than a hard evening:** [`crying-and-soothing.md`](crying-and-soothing.md) is the full playbook — the medical screen to run first, the 9-point cause sweep, every technique with its failure mode, colic vs reflux vs CMPA, the head-to-toe pain hunt, the evening-peak plan, the parent-side tag-team/anger protocol, the log, and a printable fridge card.
 
+**When he cries the second you put him down** — which is the version of this that actually costs you your sleep — the how is in [`night-and-sleep.md`](night-and-sleep.md): the 7-step lay-down, the cot ladder, the night-feed script, and what is and isn't safe when he'll only sleep on a person. If you read one file one-handed at 2 a.m., read that one.
+
 **When you're fraying:** hand him over (tag-team in ~20-min blocks — grandparents on a shift count double), or **put him on his back in the cot, walk out, breathe, drink water, come back.** That's the correct procedure, not neglect. **Never shake him** — shaking can kill. Put down + walk away, every time the impulse appears.
 
 **Feeding cues — catch them early:** crying is the *last* cue. Early: stirring, mouth opening, rooting, hands to mouth → feed now, calm baby. Mid: stretching, restlessness, hand-sucking. Late: crying, agitated, red — feed immediately, settling takes longer.
@@ -101,7 +104,7 @@ Cycle and combine them. Walk the corridor. Some evenings nothing works — cryin
 
 - **Sleep 14–17h/day** in 2–4h fragments, no day/night sense for weeks.
 - **Cluster feeding** in the evenings; **startle reflex** (arms fling out); constant **hiccups and sneezes** (sneezing clears his nose — not illness); noisy/grunting breathing from narrow airways.
-- **Weight:** loses up to ~7–10% of birth weight in the first days, back to 3,590 g by ~2 weeks — PD tracks it.
+- **Weight:** loses up to ~7–10% of birth weight in the first days, back to **3,590 g by Day 10–14**, then ~25 g/day — the PD tracks it, and [`weight-and-growth.md`](weight-and-growth.md) has his pre-filled numbers, the thresholds that need a call, and a home-weighing method that won't make you panic.
 - **Jaundice Day 2–4:** yellow tinge is very common; frequent feeding helps. Escalate if yellow spreads down the body, he's too sleepy to wake for feeds, or feeds poorly — see red-flags file.
 - **Soft spot (fontanelle)** on his head is supposed to be there; gentle touching in baths is fine.
 
@@ -133,6 +136,8 @@ A first-time parent's night is often ruined by something that is completely ordi
 ## Temperature
 
 Learn it before you need it: rectal is the most accurate for newborns (ask a nurse to show you); armpit reads low. **≥38.0 °C under 3 months = hospital, immediately** — full thresholds in [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md).
+
+When he's off but it isn't an emergency — snuffly, possetting, a rash, a reaction to a jab — the home-care routine, the medicine table and the 24-hour watch sheet are in [`illness-care.md`](illness-care.md).
 
 ## Eric's standing jobs (the short version)
 

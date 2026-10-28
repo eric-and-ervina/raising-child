@@ -51,6 +51,8 @@ Two parents, one newborn, no shifts = two exhausted people and a 3 a.m. fight. W
 
 **The rules that make it work:** "off" means earplugs, another room, no chores; don't both stay awake for the same feed; whoever is on duty owns the resettle; write down what happened in the log so the next person isn't guessing; and nobody counts a shift they didn't actually take.
 
+**The roster decides *who*. [`night-and-sleep.md`](night-and-sleep.md) decides *how*.** That file is the one to open at 2 a.m. when he has been fed, changed, and held and still will not be put down — the 7-step lay-down, the cot ladder, the night-feed script, the 2-hour rule, and what's safe when he'll only sleep on a person. Run them together.
+
 ## 4. Daily checklist (five minutes morning, five minutes night)
 
 **Morning:** log overnight feeds + diapers · check the cord stump (clean and dry? any redness/pus?) · nails (any snags?) · vitamin D drops if the PD said so · one tummy-time session · open curtains, get daylight and air through the flat · wipe the changing table down · Ervina: water bottle filled and within reach, pad changed, shower/sitz if she wants one.
@@ -103,7 +105,7 @@ Only if Ervina is returning to work on **~Mon 18 Jan 2027** (12 weeks from birth
 Answer these out loud, write the answers in §11, change one thing:
 
 1. **Diapers:** average wet and dirty per day this week — are we above the floor in the feeding file §4?
-2. **Weight:** weighed this week? (If a scale exists at home, use the same one, naked, same time of day — otherwise wait for the PD. Home scales bounce; the PD's chart decides.)
+2. **Weight:** weighed this week? Same scale, naked, same time of day, once a week — never daily, and never on the bathroom scale ([`weight-and-growth.md`](weight-and-growth.md) §2 has the setup and the expected numbers). No scale? Then wait for the PD; the PD's chart decides.
 3. **Feeds:** how many per 24 h, and did any gap go past ~4 hours?
 4. **Ervina's 4-hour block:** how many days this week did it actually happen? If under 5, the roster changes today, not next week.
 5. **Red flags:** anything from [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md) that we explained away?
@@ -134,6 +136,8 @@ Answer these out loud, write the answers in §11, change one thing:
 - **Top-ups becoming the norm without a decision →** decide, as a couple, whether supply is the goal. Both answers are fine; drifting into one is not.
 - **Nothing logged for 3 days →** restart with a notebook at the feeding spot. Memory is not evidence, and the PD will ask.
 - **Both of you angry most evenings →** that's a shift-roster problem (and often a sleep problem), not a relationship verdict. Rewrite §3, then re-read [`postpartum-recovery.md`](postpartum-recovery.md) §6.
+- **He will not go into the cot at all, and it has been 10+ days →** work [`night-and-sleep.md`](night-and-sleep.md) §7 (reflux, CMPA, overtired, too hot, a transfer problem) and book the PD with the log. More holding is not a plan.
+- **You can't say what he weighed last, or when →** start [`weight-and-growth.md`](weight-and-growth.md) §7 this Sunday. "Is he getting enough?" is unanswerable without it, and it is the question you will ask a dozen times.
 
 ## 11. The log
 
