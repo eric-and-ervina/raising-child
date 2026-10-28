@@ -23,7 +23,7 @@
 - **Jaundice** spreading to the legs, deepening after Day 4, or paired with poor feeding / hard to wake
 - **Bulge at the soft spot**, inconsolable high-pitched crying, or a baby who is limp / unresponsive
 
-Trust your gut over this list. If something feels wrong, go.
+Trust your gut over this list. If something feels wrong, go. **If the crying won't stop, run the screen in [`crying-and-soothing.md`](crying-and-soothing.md) §1 before you try to soothe it** — that file covers the cry that is a symptom, the pain hunt, and the go-now/call-today thresholds in one place.
 
 ## Ervina — call 995 (don't drive her yourself if she's unstable)
 

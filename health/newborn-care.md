@@ -91,6 +91,8 @@ His immune system is inexperienced and he cannot cough, blow his nose, or tell y
 
 Cycle and combine them. Walk the corridor. Some evenings nothing works — crying peaks ~6–8 weeks and it is miserable and normal.
 
+**When it's more than a hard evening:** [`crying-and-soothing.md`](crying-and-soothing.md) is the full playbook — the medical screen to run first, the 9-point cause sweep, every technique with its failure mode, colic vs reflux vs CMPA, the head-to-toe pain hunt, the evening-peak plan, the parent-side tag-team/anger protocol, the log, and a printable fridge card.
+
 **When you're fraying:** hand him over (tag-team in ~20-min blocks — grandparents on a shift count double), or **put him on his back in the cot, walk out, breathe, drink water, come back.** That's the correct procedure, not neglect. **Never shake him** — shaking can kill. Put down + walk away, every time the impulse appears.
 
 **Feeding cues — catch them early:** crying is the *last* cue. Early: stirring, mouth opening, rooting, hands to mouth → feed now, calm baby. Mid: stretching, restlessness, hand-sucking. Late: crying, agitated, red — feed immediately, settling takes longer.

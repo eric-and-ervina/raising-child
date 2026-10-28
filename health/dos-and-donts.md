@@ -115,6 +115,8 @@
 | Put him on his back in the cot, walk out, breathe, come back | Ever shake him, or leave him in an unsafe spot in anger | Shaking can kill; the cot is the safe pause |
 | Accept help as tasks: cook, laundry, hold him while you sleep | Accept "help" that means hosting | Help that doesn't reduce load isn't help |
 
+**Full playbook:** [`crying-and-soothing.md`](crying-and-soothing.md) — the 60-second screen, the cause sweep, all the techniques, the 5–11 p.m. peak, colic vs reflux, and the safe-put-down plan when you're the one who's fraying.
+
 ## Advice to refuse, politely and early
 
 These all come with love attached. Say them once, plainly, as a couple — it's easier in week 1 than in month 3.

@@ -6,6 +6,7 @@ Vaccines, clinics, illness, sleep, growth. This folder answers:
 ## Current notes
 
 - [`newborn-care.md`](newborn-care.md) — the hands-on manual: holding, diapering, cord, bathing, swaddling, safe sleep, soothing (5 S's), what's normal, **the skin/eye/mouth things that look alarming and aren't**, visitor and household-hygiene rules, and what the first days/weeks at home actually look like.
+- [`crying-and-soothing.md`](crying-and-soothing.md) — **the non-stop crying playbook:** the 5-second medical screen + go-now/call-today tables, the normal cry curve (PURPLE, peak ~6 weeks), the cry decoder, the 9-point cause sweep, every soothing technique with its failure mode, the evening-peak protocol, colic vs reflux vs CMPA, the head-to-toe pain hunt (hair tourniquets, hernias, torsion), "when the cry is the symptom", the never list, the parent-side safe-put-down/tag-team/anger plan, the log, the PD phone script, a first-year age map, and the fridge card.
 - [`red-flags-and-emergencies.md`](red-flags-and-emergencies.md) — baby + mother danger signs, the ≥38 °C-under-3-months rule, choking + infant CPR sequences, and the phone numbers box. Read once, keep one tap away.
 - [`pd-visits-and-vaccinations.md`](pd-visits-and-vaccinations.md) — Eldric's dated visit schedule (Day 3–5 jaundice check → 6 months), NCIS vaccination record, and weight/growth log. Foreigners pay full price; these records feed the CDA verification for his Dependant's Pass.
 - [`newborn-screening-and-discharge.md`](newborn-screening-and-discharge.md) — what the hospital did before he came home (Vitamin K, BCG, Hep B, hearing screening, the blood-spot newborn screening including **G6PD**, the discharge bilirubin check), the discharge-day document checklist, and Eldric's record tables to fill from the discharge summary.
@@ -14,10 +15,9 @@ Vaccines, clinics, illness, sleep, growth. This folder answers:
 - [`care-techniques.md`](care-techniques.md) — **the step-by-step skills file:** pick up/put down, the 5-step swaddle, three burping positions, bathing, nose (saline + suction), eyes/ears/nails, taking his temperature correctly (armpit and rectal), giving medicine, carrier/sling fit (TICKS), car seat, tummy time, plus the list of techniques to have a nurse watch you do once.
 - [`first-six-weeks-program.md`](first-six-weeks-program.md) — **the program:** the 24-hour feed–burp–change–awake–sleep cycle, the shift roster that protects Ervina's 4-hour block, the week-by-week focus for weeks 1–6, the feeding phases, the pumping ramp for returning to work, the Sunday review, and the checkpoint dates (Day 3–5 → Day 42 → 18 Jan).
 - Background still in: [`../preparation/baby-preparation-shopping-list.md`](../preparation/baby-preparation-shopping-list.md) §8 (insurance, PD choice, first-aid) and the parenting guide §4 (whole-life health habits).
-- Background still in: [`../preparation/baby-preparation-shopping-list.md`](../preparation/baby-preparation-shopping-list.md) §8 (insurance, PD choice, first-aid) and the parenting guide §4 (whole-life health habits).
 
 ## Where future notes go
 
 - `illness-log.md` — fevers, what helped, when you sought care (≥38 °C under 3 months = immediate care — see red-flags file).
-- `sleep-log.md` — whatever tracking you actually keep, if any.
+- `sleep-log.md` — whatever tracking you actually keep, if any. **Crying bouts go in the log table in [`crying-and-soothing.md`](crying-and-soothing.md) §14** — pattern first, then conclusions.
 - First-aid course notes go into the red-flags file (course date line there) once attended.
