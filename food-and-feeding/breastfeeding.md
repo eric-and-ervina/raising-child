@@ -121,6 +121,8 @@ Mixed feeding is covered in the source chapter and is not a failure state: if yo
 
 ## 9. Open items for us
 
+> **Status — Tue 10 Nov 2026:** these are still open. The two that matter now are the **PD's name/number** (so the 3 a.m. call has a destination) and the **feeding decision** (direct / expressed / mixed), because the Week 4 bottle plan depends on it. Live actions: [`../NOW.md`](../NOW.md).
+
 - [ ] Ask TMC lactation to observe a feed before discharge (Wed 28 Oct) and save their contact above.
 - [ ] Confirm with the PD: vitamin D drops (often recommended for exclusively breastfed babies — already flagged in the shopping list §8, don't pre-buy a brand/dose).
 - [ ] Record what we actually decided — direct / expressed / mixed — and what worked, dated, in a short log section below.

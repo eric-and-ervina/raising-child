@@ -5,7 +5,7 @@ This folder answers: "What paperwork is due, and what does it cost?"
 
 ## Current notes
 
-- [`42-day-paperwork-checklist.md`](42-day-paperwork-checklist.md) — **the live one.** Eldric's tick-off list with real dates: birth registered by Mon 9 Nov 2026, Special Pass expires Mon 7 Dec 2026, KBRI passport, employer-applied Dependant's Pass (Eric sponsors — $6,500 ≥ $6,000), CDA vaccination verification, insurance window, and the extension fallback.
+- [`42-day-paperwork-checklist.md`](42-day-paperwork-checklist.md) — **the live one.** Eldric's tick-off list with real dates: birth registered 27 Oct 2026, Special Pass expires Mon 7 Dec 2026, KBRI passport, employer-applied Dependant's Pass (Eric sponsors — $6,500 ≥ $6,000), CDA vaccination verification, insurance window, and the extension fallback. **Last reviewed 10 Nov 2026** — the 4 Nov KBRI/passport outcomes still need confirming. Live actions and open blanks: [`../NOW.md`](../NOW.md).
 - The full explanation still lives inside [`../preparation/baby-preparation-shopping-list.md`](../preparation/baby-preparation-shopping-list.md):
   - §10 — the 42-day plan: ICA birth registration (≤14 days) → KBRI birth report + Indonesian passport → employer-applied Dependant's Pass (sponsor ≥ $6,000 fixed monthly) → CDA vaccination verification (diphtheria + measles, short validity for babies).
   - §11 — money: no Baby Bonus/CDA/MediSave/subsidies for non-citizen children; 12-week maternity leave (8 paid + 4 unpaid), no statutory paternity leave; indicative first-year costs; $20–25k cash buffer; helper/childcare costs.

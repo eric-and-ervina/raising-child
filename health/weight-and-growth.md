@@ -4,6 +4,8 @@
 > **Why this file exists:** "am I giving him too little, or too much?" is the question that ruins the first month, and the repo only answered it in fragments (a diaper table here, a 150 ml/kg line there, an empty weight-log table). This is the whole answer in one place: **the numbers to expect, how to measure at home without driving yourself mad, the difference between a real weight problem and a normal one, and what "too much milk" actually looks like.**
 > **Companions:** dairy-by-day in [`../food-and-feeding/breastfeeding.md`](../food-and-feeding/breastfeeding.md) §4 · bottle volumes and paced feeding in [`../food-and-feeding/formula-and-bottles.md`](../food-and-feeding/formula-and-bottles.md) §3, §5 · the PD's record table in [`pd-visits-and-vaccinations.md`](pd-visits-and-vaccinations.md) · the overfeeding/reflex side in [`crying-and-soothing.md`](crying-and-soothing.md) §9.
 > *General information, not medical advice. The PD's scale and the PD's chart decide. This file exists so you walk into that visit with the right questions instead of panic.*
+>
+> **Record status — Tue 10 Nov 2026:** only the birth weight is filled. The Day 3–5, Day 7 and Day 10–14 checkpoints have passed. Fill them from the PD's readings (or your home scale) before the 1-month visit — the shape of the line is the whole point of this file. The live action list is [`../NOW.md`](../NOW.md).
 
 ---
 
@@ -205,6 +207,8 @@ Work down this list. The top two are the ones that get a same-day call.
 ## 7. The log (the only table you need to keep)
 
 One line a week plus the PD's numbers. Copy the PD's readings into [`pd-visits-and-vaccinations.md`](pd-visits-and-vaccinations.md) as well — that's the official record.
+
+> **The log is empty after birth.** That is the gap, not a detail. Add the Day 3–5 and Day 10–14 numbers today; from here, one line every Sunday is enough.
 
 | Date | Weight | Change since last | Nappies (wet/dirty per 24 h) | Feeds per 24 h | Longest night gap | Notes |
 |---|---|---|---|---|---|---|

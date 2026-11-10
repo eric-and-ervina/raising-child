@@ -43,6 +43,8 @@ Little and often beats one long session he hates. After a feed is the wrong time
 
 ## Observation log (dated, one line each — this feeds `milestones.md` later)
 
+> **Start with the first line, not the first perfect week.** "10 Nov — tracked a face for a few seconds" counts. A blank table is the only wrong entry.
+
 | Date | Age | What he did / what we noticed |
 |---|---|---|
 | | | First tummy time on chest: |

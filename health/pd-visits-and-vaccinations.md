@@ -3,6 +3,8 @@
 > **Born:** Mon 26 Oct 2026, Thomson Medical Centre. **Birth weight 3,590 g · length 52 cm · head 35 cm.** Vaginal, unmedicated.
 > **How to use:** the schedule below is pre-filled with his actual dates. Fill the record tables *at* each visit (phone note → copy here). The PD will ask about feeding, diapers, and weight — the logs in [`../food-and-feeding/breastfeeding.md`](../food-and-feeding/breastfeeding.md) §9 and [`newborn-care.md`](newborn-care.md) are your evidence.
 > *As a foreign (non-citizen) baby he pays full private rates — no polyclinic subsidy — and these records double as the evidence for the CDA vaccination verification that his Dependant's Pass depends on. Keep every card/receipt. See [`../admin-and-money/42-day-paperwork-checklist.md`](../admin-and-money/42-day-paperwork-checklist.md).*
+>
+> **Record status — Tue 10 Nov 2026:** the Day 3–5 visit (29–31 Oct) has already happened, but this file is still blank. Transcribe the result from the discharge summary or visit note today. If the visit did not happen, book it now — a late check is still better than none. The live action list is [`../NOW.md`](../NOW.md).
 
 ---
 
@@ -26,6 +28,8 @@
 | 4-month | ~Fri 26 Feb 2027 | Vaccines; growth | ☐ | ☐ |
 | 6-month | ~Mon 26 Apr 2027 | Vaccines; weaning readiness | ☐ | ☐ |
 | Ervina's 6-week postnatal check | ~Mon 7 Dec 2026 (Dr Paul) | Her recovery + tear check; the gate for her core-recovery program. Book if TMC hasn't. _(Tracked here so it isn't lost; detail lives in the confinement/pregnancy repos.)_ | ☐ | ☐ |
+
+> **The Day 3–5 row is past.** Mark *Booked*/*Done* from the clinic's SMS or receipt, then copy the weight and bilirubin into the **Weight & growth log** below. Do not leave it `☐` — a blank row reads as "we skipped it," and the 1-month PD will ask.
 
 Ask the PD at the first visit: **vitamin D drops** — often recommended for exclusively breastfed babies; get brand + dose from the PD, don't pre-buy (already flagged in the shopping list §8).
 

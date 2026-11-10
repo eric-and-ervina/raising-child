@@ -96,6 +96,8 @@ A quick, painless automated test (usually otoacoustic emissions, sometimes ABR) 
 
 ## 7. Eldric's record
 
+> **Record status — Tue 10 Nov 2026:** every field below is still blank. The discharge summary is the source; ten minutes with it now saves a frantic search later. **Do not leave G6PD unknown** — if he is deficient, it changes what he must avoid (fava beans, certain drugs, naphthalene) and every doctor needs to know. See [`../NOW.md`](../NOW.md) for the transcription checklist.
+
 **Birth stay — fill from the discharge summary on Wed 28 Oct.**
 
 | | |

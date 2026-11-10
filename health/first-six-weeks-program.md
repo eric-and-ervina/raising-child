@@ -128,6 +128,8 @@ Answer these out loud, write the answers in §11, change one thing:
 | **Dec** | Childcare decision + waitlists (if going that route) | Both | ☐ |
 | **~Mon 18 Jan 2027** | Ervina's return to work — care arrangement already in place | Both | ☐ |
 
+> **Status — Tue 10 Nov 2026:** the first two checkpoints (Day 3–5, back to birth weight) are past and still `☐`. Record the actual numbers, then mark them. A checkpoint that stays blank is the one you will wish you had at the 1-month visit. Live actions: [`../NOW.md`](../NOW.md).
+
 ## 10. When the program is failing — change something, don't tough it out
 
 - **Under 6 wet diapers a day from Day 5, no weight regain by Day 14, or jaundice spreading →** call the PD today. That's the program's tripwire, not a personality test.
