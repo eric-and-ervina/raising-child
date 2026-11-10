@@ -4,7 +4,7 @@
 >
 > **Eldric:** 16 days old (26 Oct = Day 1, the repo's convention). Born Mon 26 Oct 2026 at TMC — 3,590 g, 52 cm, head 35 cm. **Special Pass expires Mon 7 Dec 2026.**
 >
-> **Last repo update before this page:** Tue 3 Nov 2026. That means the **4 Nov** KBRI collection and passport-appointment outcomes are not recorded yet. Treat the paperwork chain as "submitted, outcome unconfirmed" until you write it down.
+> **Last repo update before this page:** Tue 3 Nov 2026. The 4 Nov outcomes are now recorded (updated Tue 10 Nov): Pencatatan Kelahiran collected 4 Nov (No. 0317/KONS-SPL/XI/26, name correct); passport applied 4 Nov and delivered 7 Nov with a **name typo ("ELDRIC MAECRICK LIM")**; KBRI accepted the error as theirs, retook Eldric's photo on 10 Nov, fee waived — **collect the corrected passport Wed 11 Nov, 15:00–17:00**.
 
 ---
 
@@ -13,10 +13,10 @@
 | # | Action | Why now | Owner | Due | Done |
 |---|---|---|---|---|---|
 | 1 | **Transcribe the discharge + Day 3–5 record** — APGAR, discharge weight, bilirubin, **G6PD**, hearing, Vitamin K / BCG / Hep B. | These are the only baseline numbers. G6PD changes what you avoid for life. | Eric | Today | ☐ |
-| 2 | **Confirm the 4 Nov KBRI outcome** — was the Pencatatan Kelahiran collected? Was the passport applied for, and when is it ready? | The DP cannot be issued without the passport. | Eric | Today | ☐ |
-| 3 | **Confirm the DP application with HR** — has it been submitted? If not, submit this week. | MOM: apply within 6 weeks of birth (**7 Dec**). Mid-Nov is the buffer, not the deadline. | Eric | Fri 14 Nov | ☐ |
+| 2 | ✅ **4 Nov KBRI outcome — confirmed.** Pencatatan Kelahiran collected (No. 0317/KONS-SPL/XI/26); passport applied at the same visit, delivered 7 Nov with a name typo. Correction photo retaken 10 Nov; **collect the corrected passport Wed 11 Nov, 15:00–17:00** (anyone may collect, with the payment slip receipt). | The DP cannot be issued without the passport. | Eric | Wed 11 Nov | ✅ |
+| 3 | **Confirm the DP application with HR** — has it been submitted? If not, submit this week. | MOM: apply within 6 weeks of birth (**7 Dec**). Mid-Nov is the buffer, not the deadline. | Eric | Fri 13 Nov | ☐ |
 | 4 | **Confirm insurance** — both employers' group cover; add Eldric. | Application windows are often 30–90 days from birth: the earliest could close **~25 Nov**. | Eric | Fri 21 Nov | ☐ |
-| 5 | **Book** the 1-month PD (~26 Nov) and Ervina's 6-week check (~7 Dec). | Both are already inside the next four weeks. | Both | Fri 14 Nov | ☐ |
+| 5 | **Book** the 1-month PD (~26 Nov) and Ervina's 6-week check (~7 Dec). | Both are already inside the next four weeks. | Both | Fri 13 Nov | ☐ |
 | 6 | **Personalise the emergency card** — PD name/number, hospital route, parents' phones. Copy to each wallet + fridge. | You cannot look this up at 3 a.m. See [`health/emergency-card.md`](health/emergency-card.md). | Eric | Today | ☐ |
 
 ---
@@ -28,11 +28,11 @@
 | PD name / clinic / phone / after-hours route | `health/pd-visits-and-vaccinations.md`, `health/red-flags-and-emergencies.md`, `food-and-feeding/breastfeeding.md`, emergency card | ☐ blank |
 | **G6PD result** | `health/newborn-screening-and-discharge.md` §7, emergency card | ☐ blank |
 | APGAR (1 / 5 min) | `health/newborn-screening-and-discharge.md` §7 | ☐ blank |
-| Discharge weight + % loss | `health/newborn-screening-and-discharge.md` §7 | ☐ blank |
-| Bilirubin at discharge / Day 3–5 result | `health/newborn-screening-and-discharge.md` §7, `health/pd-visits-and-vaccinations.md` | ☐ blank |
+| Discharge weight + % loss | `health/newborn-screening-and-discharge.md` §7 | ✅ 3,475 g (−3.2% from the 3,590 g birth weight) |
+| Bilirubin at discharge / Day 3–5 result | `health/newborn-screening-and-discharge.md` §7, `health/pd-visits-and-vaccinations.md` | 🔶 213 µmol/L at the 31 Oct PD visit (cutoff 250); discharge value not recorded. PD clinic advised monitoring within one month (6 Nov call); 9 Nov home check: yellow to the belly only, eyes clear |
 | Hearing screening result | `health/newborn-screening-and-discharge.md` §7 | ☐ blank |
-| Birth procedures actually given (Vitamin K, BCG, Hep B 1) | `health/newborn-screening-and-discharge.md` §7, vaccination table | ☐ blank |
-| Day 3–5 weight | `health/pd-visits-and-vaccinations.md`, `health/weight-and-growth.md` §1/§7 | ☐ blank |
+| Birth procedures actually given (Vitamin K, BCG, Hep B 1) | `health/newborn-screening-and-discharge.md` §7, vaccination table | ✅ All three given on 26 Oct (Vitamin K, BCG, Hep B dose 1) |
+| Day 3–5 weight | `health/pd-visits-and-vaccinations.md`, `health/weight-and-growth.md` §1/§7 | 🔶 No separate Day 3–5 reading on file; nearest: 3,475 g at discharge, 3.47 kg at the 31 Oct PD visit |
 | Day 10–14 weight (4–8 Nov) | `health/weight-and-growth.md` §1/§7, program §9 | ☐ blank |
 | Nearest hospital + 3 a.m. route | `health/red-flags-and-emergencies.md`, emergency card | ☐ blank |
 | Infant CPR course booked? | `health/red-flags-and-emergencies.md` | ☐ not booked |
@@ -50,7 +50,7 @@
 
 | Date | What | Where the detail lives |
 |---|---|---|
-| **Thu 29 – Sat 31 Oct** | Day 3–5 jaundice + weight visit — **PAST; record the result** | `health/pd-visits-and-vaccinations.md` |
+| **Thu 29 – Sat 31 Oct** | Day 3–5 jaundice + weight visit — **done Sat 31 Oct (Dr Janice): 3.47 kg; bilirubin 213 µmol/L (cutoff 250)** | `health/pd-visits-and-vaccinations.md` |
 | **~4–8 Nov** | Back to birth weight (Day 10–14) — **PAST; record the weight** | `health/weight-and-growth.md` §1 |
 | **Mon 9 Nov** | MOM's 14-day registration target — done 27 Oct (ICA's legal deadline is 42 days / 7 Dec) | checklist step 1 |
 | **~22 Nov** | Confinement meals end — household plan takes over | program §5 (Week 4) |
