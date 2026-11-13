@@ -19,13 +19,24 @@
 
 ## What you need
 
-**Already in the house:** 2 bottles (1 big, 1 small), a way to sterilise, bottle brush, formula + tin scoop.
+**Already in the house:** 2 bottles (1 big, 1 small), a bottle steriliser (this is what the S$150 company newborn gift bought — not a pump), bottle brush, formula + tin scoop, and a **pre-loved breast pump** obtained through a pre-loved items app. No pump purchase is needed — but read the check-over below before relying on it.
 
 **Buy in November (one shopping round):**
 - **10 × 150 ml bottles** with slow-flow (newborn) teats — needed from Phase 2 (1 Dec). Buy the same brand as each other so parts interchange.
-- **The breast pump** (the S$150 company newborn gift) — must be in the house before 1 Dec. A double electric pump is the practical choice for daily use.
 - **Breast-milk storage bags** (for freezing flat 120 ml portions) + a marker for labelling.
 - Spare teats ×4.
+- **Fresh membranes/valves for the pump** (the model-specific kit), and flange inserts in Ervina's sizes if the included flanges don't match (see check-over).
+
+### The pre-loved pump — check it over before Phase 2
+A pre-loved pump is fine, but pumps have wear parts, and a tired part quietly weakens suction.
+
+1. Wash and sterilise every washable part before first use.
+2. **Replace the membranes/valves** with a fresh set for that model — they're cheap, and they are the #1 cause of a "weak" used pump.
+3. Inspect the tubing: any moisture, cloudiness or mould inside → replace the tubing.
+4. Check the flange sizes against Ervina's measurements (19 mm / 21 mm, fitted at Thomson) and buy inserts if needed.
+5. Test-run it once before Phase 2, so the first real session isn't the first time it's switched on.
+
+Why this matters here: a worn membrane makes pumped output look low — and this program judges supply by nappies and weight, never by pump output. Don't let a cheap membrane write a false story.
 
 **Buy in December:** a cooler bag + 2 ice packs (for the January milk run to the centre), and later (around month 4–5) 5 × 260 ml bottles when his feeds outgrow 150 ml.
 
@@ -82,14 +93,14 @@ Once he takes 60 ml calmly, the daily bottle becomes a **real feed that replaces
 1. **Offer 90 ml.** That's the expected full feed at his age (the table in [`formula-and-bottles.md`](formula-and-bottles.md) §3 says 60–90 ml at weeks 2–4, growing).
 2. Feed with Part 2 steps. Expect 15–20 minutes.
 3. **Log it precisely:** offered / taken / minutes / the time he next showed hunger. The gap until the next hunger cue is the proof the feed was enough: a full feed should hold him roughly as long as a breastfeed does (at this age, very roughly 1½–3 hours — his own breastfed gaps are the comparison, not a book number).
-4. **Ervina, at that same feed time:** hand-express or pump for ~10–15 minutes. Reasons: comfort (a skipped feed can leave her sore and full), and supply (Part 1, idea 3). Until the pump arrives, hand expression is enough at this one-feed scale. What she expresses can be tomorrow's bottle, refrigerated — or freeze it.
+4. **Ervina, at that same feed time:** hand-express or pump for ~10–15 minutes. Reasons: comfort (a skipped feed can leave her sore and full), and supply (Part 1, idea 3). Hand expression is enough at this one-feed scale; once the pre-loved pump's parts are refreshed (see "What you need"), she can use it instead. What she expresses can be tomorrow's bottle, refrigerated — or freeze it.
 5. **By ~25 Nov you'll have about 7 logged full feeds. Average the "taken" column: that average is "his number."** Write it at the top of the log.
 6. **Thu 26 Nov — the PD visit (Dr Leo) is the checkpoint:** tell him the number and show the log. Cross-check together: a baby needs roughly **150 ml per kg per day** in total, so (his weight × 150) ÷ (feeds per day) should land near his number. If it's wildly off, or his weight gain is off, the PD adjusts the plan — that's what the visit is for.
 
 **Phase 1 is done when:** he finishes a full bottle calmly most days, and you have a written per-feed number you trust.
 
 ## Phase 2 — Match the care rhythm, build the freezer stash
-**Tue 1 Dec → Mon 21 Dec (weeks 5–8). Two bottles a day. The pump arrives. The 10-bottle set arrives.**
+**Tue 1 Dec → Mon 21 Dec (weeks 5–8). Two bottles a day. The pre-loved pump goes into daily service. The 10-bottle set arrives.**
 
 ### The daily shape
 - **Two full bottle feeds a day, at care-like times: ~10:00 and ~14:30.** All other feeds stay at the breast.
