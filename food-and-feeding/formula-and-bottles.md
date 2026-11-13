@@ -154,3 +154,18 @@ _(Dated one-liners. The point is not perfect record-keeping — it is being able
 
 ### If it stalls
 Refusal at any phase: drop back one phase for 3–4 days, change exactly one variable, retry. Persistent refusal, poor nappy counts, or weight concerns → PD (26 Nov visit is the scheduled checkpoint; sooner if the gauges move).
+
+### Bottle stock and sizes for infant care (added 13 Nov 2026)
+
+The centre does **not** wash or sterilise — every feed travels in its own pre-filled bottle, and all bottles come home dirty at night. So bottle count = feeds per day + spare, with two rotating sets at home (one set out / in the wash, one clean and ready).
+
+| Age | Bottles sent / day | Per-feed volume | Bottle size to send |
+|---|---|---|---|
+| 2–4 months | 4 (3 feeds + 1 spare) | ~120 ml | 150 ml |
+| 4–6 months | 4 (3 feeds + 1 spare) | ~150–180 ml | 260 ml |
+| 6+ months (solids started) | usually 3 | ~180 ml | 260 ml |
+
+- **Home stock: 8 × 150 ml now** (two sets of 4). Six is the floor (4 + 2) but leaves no margin for breakage or a missed evening wash. Add **4 × 260 ml** around month 4–5, when a feed outgrows the 150 ml bottle.
+- The **spare** travels filled. If it comes home unused, still refrigerated and never warmed or fed from, it becomes tomorrow's first bottle (inside the 4-day EBM fridge window, §6 of [`breastfeeding.md`](breastfeeding.md)). An expressed-milk spare rotates like this far more easily than a made-up formula one (24 h fridge limit, §2).
+- **Teats:** one per bottle plus spares; slow flow throughout the bottle program. Replace teats ~every 2 months, or sooner if sticky, torn or stretched (§4).
+- Pump-side bottles and storage bags are separate kit — don't count them in the feeding-bottle stock.
