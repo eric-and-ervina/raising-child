@@ -24,7 +24,22 @@
 
 ## Ready to send — note to Eric's HR (DP)
 
-> Hi Stephanie, our son Eldric Maverick Lim was born on 26 Oct 2026 at Thomson Medical Centre. His Singapore birth certificate (No. T2623027B) was issued on 27 Oct 2026, and he is currently on a Special Pass expiring 7 Dec 2026. Could you please apply for his Dependant's Pass under my Employment Pass via the myMOM Portal? His Indonesian passport has been issued (No. X8417836, valid to 11 Nov 2031), so everything is ready — I've attached his passport particulars page and birth certificate. Please let me know if you need anything else from me. Thanks, Eric
+**Subject: Dependant's Pass application for my son — Eldric Maverick Lim**
+
+> Hi Stephanie,
+>
+> I'd like to request a Dependant's Pass application for my newborn son under my Employment Pass.
+>
+> - Name: Eldric Maverick Lim
+> - Date of birth: 26 Oct 2026 (Thomson Medical Centre)
+> - Passport: Indonesia, No. X8417836 (issued 11 Nov 2026, valid until 11 Nov 2031)
+> - Birth certificate: Singapore, No. T2623027B (issued 27 Oct 2026)
+> - Current status: Special Pass, expiring 7 Dec 2026
+>
+> I've attached the two documents MOM requires for a child's application — his passport particulars page and his birth certificate. Could you please submit the application via the myMOM Portal? I'm happy to provide anything else you need.
+>
+> Thank you,
+> Eric
 
 ## If it slips — the fallback (know it before you need it)
 
