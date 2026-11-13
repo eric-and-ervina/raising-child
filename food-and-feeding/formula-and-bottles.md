@@ -122,13 +122,14 @@ _(Dated one-liners. The point is not perfect record-keeping — it is being able
 
 ## 12. The infant-care transition program (agreed Fri 13 Nov 2026)
 
-**Why:** feeding is almost entirely direct breastfeeding. The evening bottle (since 10 Nov) is a 30 ml practice add-on, not a feed — so Eldric has never taken a *full* feed from a bottle, and nobody knows his per-feed volume. Infant care (from ~2 months, early Jan) is bottles only, supplied by us. This program closes both gaps gradually, so the first care week contains no new feeding skill. It extends §6, it does not replace it.
+**Why:** feeding is effectively all direct breastfeeding. **No bottle routine has ever started** — a planned 10 Nov start was recorded as running but never happened (corrected by Eric, 13 Nov), and the house owns only 2 bottles (1 big, 1 small). Eldric has essentially never fed from a bottle, and nobody knows his per-feed volume. Infant care (from ~2 months, early Jan) is bottles only, supplied by us. This program closes both gaps gradually, so the first care week contains no new feeding skill. It extends §6, it does not replace it.
 
 **Rules throughout:** paced feeding (§5), slowest-flow teat (do not size up to finish faster), full-wake rule before a feed, burp after, Eric gives the bottles. A refused feed is data, not a battle — stop, breastfeed, retry next session, change one variable (timing, temperature, teat, place). Direct breastfeeding stays the majority until Phase 3.
 
 ### Phase 1 — Measure (Sat 14 Nov → Mon 30 Nov; weeks 3–5)
-- Upgrade the evening practice bottle to **one full bottle feed per day** (formula is fine — the skill is the bottle, not the contents).
-- **Offer 90 ml.** He takes what he takes; the leftover is the measurement. Log offered / taken / minutes / time until the next hunger cue.
+- **Days 1–4 (the start that never happened, now done properly):** one practice bottle a day — 30 ml, building to 60 ml — Eric gives it, mildly hungry and calm, paced. The 2 bottles on hand are enough for this phase.
+- **Then, for the rest of Phase 1:** one **full bottle feed per day** (formula is fine — the skill is the bottle, not the contents).
+- **Offer 90 ml** for the full feed. He takes what he takes; the leftover is the measurement. Log offered / taken / minutes / time until the next hunger cue.
 - After ~7 logged feeds, his real per-feed number replaces all table estimates. Cross-check at the 26 Nov PD visit: ~150 ml/kg/day ÷ his weight.
 - Ervina hand-expresses or pumps briefly at the replaced feed where practical, so the replaced feed doesn't quietly cut supply.
 
@@ -165,7 +166,7 @@ The centre does **not** wash or sterilise — every feed travels in its own pre-
 | 4–6 months | 5 (4 feeds + 1 spare) | ~150–180 ml | 260 ml |
 | 6+ months (solids started) | usually 4 (3 feeds + 1 spare) | ~180 ml | 260 ml |
 
-- **Home stock: 10 × 150 ml now** (two sets of 5). Seven is the floor (5 + 2) but leaves little margin for breakage or a missed evening wash. Add **5 × 260 ml** around month 4–5, when a feed outgrows the 150 ml bottle.
+- **Home stock target: 10 × 150 ml** (two sets of 5). On hand 13 Nov: **2 bottles only (1 big, 1 small)** — enough for Phase 1, but the 150 ml set is a November purchase, needed from Phase 2 (1 Dec), in the same window as the pump. Seven is the floor (5 + 2) but leaves little margin for breakage or a missed evening wash. Add **5 × 260 ml** around month 4–5, when a feed outgrows the 150 ml bottle.
 - The **spare** travels filled. If it comes home unused, still refrigerated and never warmed or fed from, it becomes tomorrow's first bottle (inside the 4-day EBM fridge window, §6 of [`breastfeeding.md`](breastfeeding.md)). An expressed-milk spare rotates like this far more easily than a made-up formula one (24 h fridge limit, §2).
 - **Teats:** one per bottle plus spares; slow flow throughout the bottle program. Replace teats ~every 2 months, or sooner if sticky, torn or stretched (§4).
 - Pump-side bottles and storage bags are separate kit — don't count them in the feeding-bottle stock.
