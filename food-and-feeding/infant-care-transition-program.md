@@ -9,11 +9,13 @@
 
 ## The five ideas to understand first (plain words)
 
-1. **A bottle is a skill, not just a container.** Sucking from a breast and sucking from a bottle use different mouth movements, and the milk comes at a different speed. A baby who has only ever breastfed usually needs days of calm practice to accept a bottle — that's normal, not stubbornness. Babies introduced to a bottle gradually, starting around 3–6 weeks old, almost always learn it. Waiting until the week before care starts is what makes transitions hard.
+1. **A bottle is a skill, not just a container.** Sucking from a breast and sucking from a bottle use different mouth movements, and the milk comes at a different speed. A baby who has only ever breastfed usually needs days of calm practice to accept a bottle — that's normal, not stubbornness. Babies introduced to a bottle gradually, starting around 3–6 weeks old, the vast majority learn it. Waiting until the week before care starts is what makes transitions hard.
 2. **Nobody knows how much he drinks at the breast — and that's fine.** Breasts don't have measurement lines. The program *finds* his number: you offer a bottle with a known amount, see what he takes, and write it down. After a week of bottles, you'll know his per-feed volume better than any textbook table.
 3. **Milk is made on demand.** Ervina's body makes roughly the amount that gets removed each day. So whenever a bottle *replaces* a breastfeed, she needs to pump or hand-express at about that time — otherwise her body reads the missed feed as "make less," and she can get uncomfortably full. This is why the program and the pump arrive together.
 4. **Slow is the whole technique.** A bottle can pour milk into a baby much faster than a breast does. Fed too fast, babies gulp, take too much, get windy and miserable — and start preferring the bottle's easy flow. "Paced feeding" (Part 2 below) is how you keep the bottle at breast speed.
 5. **Write it down or it didn't happen.** Sleep-deprived memory invents numbers. The log (Part 6) takes ten seconds per feed and becomes the exact document you hand the infant-care centre in January.
+
+**One scope rule for the whole program: night feeds stay at the breast, start to finish.** Bottles are a daytime, care-hours skill — nobody is practising bottles at 3 a.m.
 
 ## What you need
 
@@ -62,12 +64,14 @@ Full rules and reasons: [`formula-and-bottles.md`](formula-and-bottles.md) §2. 
 ## Phase 1 — Learn the bottle, find his number
 **Sat 14 Nov → Mon 30 Nov (weeks 3–5). One bottle a day. Eric gives it.**
 
+*On the start date: he begins at 2 weeks 5 days, a few days under the usual 3-week guideline. That's fine — Week A is 30 ml practice, not meals, and he turns 3 weeks (Mon 16 Nov) during it. Nothing in Week A replaces a feed.*
+
 ### Week A (Sat 14 – Tue 17 Nov): practice, not meals
 The goal this week is only familiarity: teat in mouth, milk tastes fine, nothing bad happens. He still gets all his real nutrition at the breast.
 
 1. Pick **one calm slot a day** — late morning or early evening tends to work. Same rough time daily helps it become a routine.
 2. Make **30 ml** of formula (Part 3). On day 3–4, if the previous day went calmly, make **45 ml**, then **60 ml**.
-3. Feed it with the Part 2 steps. Ervina stays out of the room if she can — many babies refuse a bottle from the person who has the breast, or with her in sight, because they know the preferred option is *right there*. Eric giving the bottle is not a preference, it's the method.
+3. Feed it with the Part 2 steps. Ervina stays out of the room if she can — many babies refuse a bottle from the person who has the breast, or with her in sight, because they know the preferred option is *right there*. Eric giving the bottle is not a preference, it's the method. Being sent out of the room can feel strange for Ervina — it's temporary, and it's the method, not a judgement; once bottles are routine (Phase 2 onward), she can be nearby again.
 4. **Success looks like:** any amount drunk calmly — even 10 ml on day 1. Pushes it away after a few sucks on day 1–2 is also normal.
 5. **If he refuses:** don't push, don't let it become crying. End the session, breastfeed as normal, and change **one** thing tomorrow — the timing (earlier, at the first hunger cues), the temperature (a little warmer), or the teat position. One variable at a time, or you'll never know what fixed it.
 6. Log every session, including refusals (Part 6).
@@ -123,14 +127,14 @@ Run the actual January day at home, end to end:
 1. **~06:30** — breastfeed at home. (This is the "edge feed" — the 12 care hours sit between this and the evening home feed.)
 2. **Morning pack (Eric, timed — see the checklist below).** Bottles packed in the cooler bag with ice packs, labelled with his name and the date/time the milk was expressed.
 3. **Bottles at ~09:00, ~12:00, ~15:00, ~18:00** — fed from the packed bottles, by Eric or whoever is home, *not* in the usual feeding chair if you can vary it. This is the rhythm the centre will run: 4 feeds inside the 12 hours.
-4. **Ervina pumps on a work-day schedule** (~10:30, ~13:30, ~16:30) — her output those days is what a real work day produces, and it becomes the next day's bottles. Now you know whether the milk loop closes or whether 1 bottle a day needs to be formula.
-5. **~19:00 onwards** — home, breastfeed as normal.
+4. **Ervina pumps on a work-day schedule** (~10:30, ~13:30, ~16:30) — her output those days is what a real work day produces, and it becomes the next day's bottles. Now you know whether the milk loop closes or whether 1 bottle a day needs to be formula. Do that arithmetic honestly: 3 pumps at ~120–150 ml each give ~360–450 ml against ~480 ml of bottles — so unless her per-pump output runs above ~150 ml, **plan on about 1 formula bottle a day** (or add a 4th pump early in the morning). That is a normal shape for a 12-hour care day, not a shortfall.
+5. **~19:00 onwards** — home, breastfeed as normal. Note the gap from the 18:00 bottle is only an hour: this feed may be small, or mostly comfort — if he's not hungry, that's fine. The 18:00 bottle was the last full feed; the evening breastfeed is also the reconnection feed, and its size doesn't have to prove anything.
 6. **Evening:** all bottles washed, sterilised, air-drying for tomorrow. Note how long the full loop (pack + wash) actually takes — that's your real January morning/evening cost, measured instead of guessed.
 
 **Expected totals per care day:** 4 feeds × ~120 ml ≈ **480 ml**, plus the spare bottle in rotation.
 
 ### The morning pack checklist (for a 07:00–19:00 care day)
-- [ ] **5 bottles**, filled and labelled (4 feeds + 1 spare) — the centre does **not** wash bottles, so every feed needs its own
+- [ ] **5 bottles**, filled and labelled (4 feeds + 1 spare) — the centre does **not** wash bottles, so every feed needs its own (confirm at intake; it's the centre's own policy to state)
 - [ ] Cooler bag + 2 ice packs
 - [ ] **Nappies ×8** (he goes through roughly 6–8 a day; the centre will tell you their resupply rhythm)
 - [ ] His own wipes (99% water, fragrance-free — the house standard)
@@ -157,6 +161,7 @@ The centre gives you their own list at intake — merge it with this one and fol
 |---|---|---|
 | Pushes the teat out, turns away, day 1–3 | Normal novelty — the skill isn't there yet | End calmly, breastfeed, retry tomorrow. This is the expected shape of Week A |
 | Takes the bottle from Eric, refuses with Ervina nearby | He knows the breast is available and prefers it | Ervina out of the room for bottle sessions (Part 3, Week A). It's a compliment to her, not a failure |
+| Starts fussing or refusing at the **breast** after bottle-heavy days | Possible flow preference — the bottle is delivering faster than the breast, and he's learned to expect the easy flow | Drop back to one bottle a day for a week, and make that bottle slower: more horizontal, pauses more often, check the teat is still slow-flow. Breast offered first at all other feeds. Usually settles within days; tell Dr Leo if it doesn't |
 | Gulps, splutters, milk spills from his mouth, feed done in 5 minutes | Flow too fast | Check the teat is slow-flow/newborn; hold the bottle more horizontal; pause more often |
 | Falls asleep mid-bottle | Very normal at this age | Wake fully (nappy change, sit him up, cool flannel), then continue. The full-wake rule exists because sleepy babies under-drink and then wake hungry an hour later |
 | Cries the moment the bottle appears, several days running | Something specific is wrong, or he was too hungry when offered | Offer earlier, at the first cues; check temperature (some babies want it warmer); try a different teat shape; drop back to 30 ml practice days for 3–4 days |
