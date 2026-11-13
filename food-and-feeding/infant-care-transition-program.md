@@ -81,7 +81,7 @@ Full rules and reasons: [`formula-and-bottles.md`](formula-and-bottles.md) §2. 
 The goal this week is only familiarity: teat in mouth, milk tastes fine, nothing bad happens. He still gets all his real nutrition at the breast.
 
 1. Pick **one calm slot a day** — late morning or early evening tends to work. Same rough time daily helps it become a routine.
-2. Make **30 ml** of formula (Part 3). On day 3–4, if the previous day went calmly, make **45 ml**, then **60 ml**.
+2. Make **30 ml** of **expressed breast milk** (Ervina hand-expresses or pumps a little after a morning feed; fridge it, warm it for the session). Expressed milk first is deliberate: this week trains the *bottle*, and her milk takes taste out of the experiment — if he refuses, you'll know it's the bottle, not the flavour. One variable at a time. On day 3–4, if the previous day went calmly, make **45 ml**, then **60 ml**.
 3. Feed it with the Part 2 steps. Ervina stays out of the room if she can — many babies refuse a bottle from the person who has the breast, or with her in sight, because they know the preferred option is *right there*. Eric giving the bottle is not a preference, it's the method. Being sent out of the room can feel strange for Ervina — it's temporary, and it's the method, not a judgement; once bottles are routine (Phase 2 onward), she can be nearby again.
 4. **Success looks like:** any amount drunk calmly — even 10 ml on day 1. Pushes it away after a few sucks on day 1–2 is also normal.
 5. **If he refuses:** don't push, don't let it become crying. End the session, breastfeed as normal, and change **one** thing tomorrow — the timing (earlier, at the first hunger cues), the temperature (a little warmer), or the teat position. One variable at a time, or you'll never know what fixed it.
@@ -96,6 +96,7 @@ Once he takes 60 ml calmly, the daily bottle becomes a **real feed that replaces
 4. **Ervina, at that same feed time:** hand-express or pump for ~10–15 minutes. Reasons: comfort (a skipped feed can leave her sore and full), and supply (Part 1, idea 3). Hand expression is enough at this one-feed scale; once the pre-loved pump's parts are refreshed (see "What you need"), she can use it instead. What she expresses can be tomorrow's bottle, refrigerated — or freeze it.
 5. **By ~25 Nov you'll have about 7 logged full feeds. Average the "taken" column: that average is "his number."** Write it at the top of the log.
 6. **Thu 26 Nov — the PD visit (Dr Leo) is the checkpoint:** tell him the number and show the log. Cross-check together: a baby needs roughly **150 ml per kg per day** in total, so (his weight × 150) ÷ (feeds per day) should land near his number. If it's wildly off, or his weight gain is off, the PD adjusts the plan — that's what the visit is for.
+7. **Formula acceptance, on its own track:** once he has taken the full bottle calmly about 3–4 times, make **one bottle in three a formula bottle** (Part 3 steps, same volume) and log his reaction to it separately. He needs to accept formula eventually — the January care day will likely include ~1 formula bottle (Phase 3 does that arithmetic), and Ervina's business trips make trip weeks formula-heavy by design (Part 7). But it is proven *after* the bottle skill, never confused with it.
 
 **Phase 1 is done when:** he finishes a full bottle calmly most days, and you have a written per-feed number you trust.
 
@@ -104,7 +105,7 @@ Once he takes 60 ml calmly, the daily bottle becomes a **real feed that replaces
 
 ### The daily shape
 - **Two full bottle feeds a day, at care-like times: ~10:00 and ~14:30.** All other feeds stay at the breast.
-- Bottle contents now shift from formula to **expressed milk as the main fill** (formula remains the backup and the pressure valve — a formula bottle on a low-pumping day is a fine outcome, not a failed day).
+- Bottle contents: **expressed milk stays the main fill** (it has been since Week A). Formula keeps its two defined jobs — backup on a low-pumping day (a fine outcome, not a failed day), and the scheduled acceptance practice started in Phase 1 — because the January day will likely include ~1 formula bottle (Phase 3 arithmetic) and trip weeks lean on it harder (Part 7).
 
 ### Pumping — Ervina's new skill, step by step
 Do this at each replaced feed (~10:00 and ~14:30), while Eric gives the bottle:
@@ -192,6 +193,43 @@ The centre gives you their own list at intake — merge it with this one and fol
 For pumping sessions, one extra line: time, total ml, and where the milk went (fridge / freezer / tomorrow's bottle).
 
 This log is not homework for its own sake. In January you fill in the centre's intake sheet from it, and on any worried day it's the first thing Dr Leo will ask to see.
+
+## Part 7 — When Ervina travels for work
+
+Ervina's job involves business trips roughly **once every 3–4 months, often a full week**, to cities in Indonesia. This is a standing feature of family life, not an emergency — so it gets its own module instead of improvisation each time. *(Added 13 Nov 2026, Eric's request.)*
+
+### First, the supply question — because everything else hangs on it
+Milk production follows removal: the breast makes roughly what gets taken out, day by day. A week of only morning-and-night pumping (2 removals instead of ~8 feeds) **will** lower her output — that is the system working as designed, not damage. **It is also reversible.** The same loop runs in reverse: when frequent removal resumes, production climbs back. After a single trip week at 3–4+ months, with supply well established, expect output to rebuild over roughly **a week** of frequent breastfeeding/pumping at home. What makes recovery slow is deep, prolonged suppression — months of minimal removal — not one planned week. Two real risks on the trip itself are not about supply at all: **clogged ducts and mastitis** from breasts left painfully full. Comfort wins over schedule: express to comfort whenever she is painfully full, even outside the planned sessions.
+
+**The three levers that protect supply on a trip, in order of value:**
+1. **At the 2 daily sessions, fully drain** — both sides, longer than usual, massage toward the end. Two *complete* removals protect supply far better than two rushed ones.
+2. **Add a midday removal if at all possible** — even 10 minutes of hand expression. Three removals a day holds supply dramatically better than two; this is the single highest-value habit on the road.
+3. **Don't crash into the trip.** Taper any regular pumping down over the 3–4 days before departure instead of stopping abruptly on day 1.
+
+### Shape A — Jakarta trips: Eldric goes too
+Jakarta is the easy case, because Eric's parents are there.
+- Eldric travels with Ervina and is based at his **grandparents' home**, with the short-term nanny help already contemplated for exactly this.
+- Ervina **breastfeeds morning and evening** at the house — direct feeding continues, so supply is largely protected without heroic pumping. Daytime bottles (expressed milk she pumps the evening before, or formula) are given by the grandparents/nanny.
+- Milk pumped during her work day can go in the house fridge and be used within the normal storage windows — no cold-chain heroics needed.
+- Eric's role that week: none on feeding — which is precisely why Jakarta trips are the ones to schedule first while everyone learns.
+
+### Shape B — Other cities: Eldric stays in Singapore
+- **Weekdays run as normal**: infant care 07:00–19:00 as usual. The change is the edges: **Eric solo-covers the ~06:30 and ~19:00 feeds and any night feeds with bottles** for that week. The program's "night feeds stay at the breast" rule has this one explicit exception — in a trip week, nights are bottles, because Eric is the only adult in the house and he has to sleep too.
+- **Milk cover is planned, not hoped for:** before the trip, count the freezer. A solo week needs roughly the centre volume (~480 ml/day) *plus* the edge/night bottles — up to ~700–800 ml/day on the hungriest days. The stash will not cover a full week; **formula covers the difference by design.** A trip week is a formula-heavy week, and that is the plan working, not failing.
+- **Her pumped milk on the road is for comfort and supply, not for shipping home.** Without a reliable cold chain, discard it without guilt — trying to freight milk across a work trip adds stress and risk for little volume.
+- **Before the first Shape B trip:** one rehearsal weekend where Eric runs a full evening + night solo (he'll already own the evenings from Phase 3 — this just extends the shift). If a given trip looks too heavy solo, grandparents flying in is an option to weigh per trip, not a default.
+
+### The travel pumping kit (the luggage problem)
+- The full double-electric pump **stays home**. On the road: a **compact manual pump** (a few hundred grams, no charger, no tubing) as the main tool — or hand expression alone, which is zero luggage.
+- **Hand expression is a Phase 2 skill, not a trip-week discovery.** Ervina practises it in December, when it doesn't matter yet, so that in a hotel room in another city it's already boring. It is the only pumping method that cannot be forgotten, broken, or left in a taxi.
+- If her employer provides a wearable pump for work, it can double as the travel pump — decide per trip by luggage, not by habit.
+
+### The week after a trip — the rebuild
+1. Breastfeed **on demand** at home for the first days back — frequency is the signal her body rebuilds on.
+2. If output still feels low after 2–3 days, add **one extra pump session a day** for the rest of that week.
+3. Expect supply back to normal within **~a week**. Judge by Eldric's nappies and weight, never by a single pump session's number.
+4. If output has not recovered after ~2 weeks of rebuilding, raise it at the next PD visit.
+5. Also expect a **reconnection pattern**: he may want the breast constantly for a day or two after she returns. That's attachment, not a supply reading.
 
 ## Done looks like (the whole program, by the first care day)
 - A full bottle finished calmly in 15–20 minutes, three days running, from a bottle packed that morning
