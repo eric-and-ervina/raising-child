@@ -23,7 +23,7 @@
 | Visit | When (for Eldric) | Purpose | Booked? | Done? |
 |---|---|---|---|---|
 | **Jaundice / weight check** | **Day 3–5: Thu 29 – Sat 31 Oct 2026** | Bilirubin, weight vs. birth weight, feeding check. **Do not skip — confirm the appointment at discharge (Wed 28 Oct).** | ☐ | ☐ |
-| 1-month review | ~Thu 26 Nov 2026 | Weight gain, feeding, development check; Hep B dose 2 (below) | ☐ | ☐ |
+| 1-month review | **Thu 26 Nov 2026, 10:00 am — BOOKED** (Kids Clinic @ Bukit Batok, Dr Leo Deng Jin, Le Quest Mall; booked 13 Nov, SMS-confirmed) | Weight gain, feeding, development check; Hep B dose 2 (below) | ☐ | ☐ |
 | 2-month | ~Sat 26 Dec 2026 | Vaccines (below); also the earliest infant-care start if you go that route | ☐ | ☐ |
 | 4-month | ~Fri 26 Feb 2027 | Vaccines; growth | ☐ | ☐ |
 | 6-month | ~Mon 26 Apr 2027 | Vaccines; weaning readiness | ☐ | ☐ |
