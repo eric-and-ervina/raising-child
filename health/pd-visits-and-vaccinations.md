@@ -39,8 +39,8 @@ Hospital doses are normally given before discharge at TMC — **record what was 
 
 | Age | Vaccine | Eldric's target date | Given (date + clinic) | Notes |
 |---|---|---|---|---|
-| Birth | BCG (tuberculosis) | 26–28 Oct 2026 (in hospital) | | Eric asked about BCG + Hep B on 26 Oct — record the decision + dose here |
-| Birth | Hepatitis B — dose 1 | 26–28 Oct 2026 (in hospital) | | |
+| Birth | BCG (tuberculosis) | 26–28 Oct 2026 (in hospital) | **27 Oct 2026, Thomson Med. Ctr.** — left buttock; batch 125016C (as read from the booklet photo, 13 Nov) | Eric asked about BCG + Hep B on 26 Oct — record the decision + dose here |
+| Birth | Hepatitis B — dose 1 | 26–28 Oct 2026 (in hospital) | **27 Oct 2026, Thomson Med. Ctr.** — Engerix-B, right thigh; batch AHBVD207BE (as read from the booklet photo, 13 Nov; handwriting partly unclear) | |
 | 1 month | Hepatitis B — dose 2 | ~26 Nov 2026 | | |
 | 2 months | 6-in-1 (DTaP-IPV-Hib-HepB) — dose 1 | ~26 Dec 2026 | | PD may add PCV + rotavirus at 2 months — confirm the PD's exact NCIS schedule at the first visit and correct this table to match |
 | 4 months | 5-in-1 — dose 2; PCV — dose 1 | ~26 Feb 2027 | | Per pregnancy Ch. 9 baseline |
