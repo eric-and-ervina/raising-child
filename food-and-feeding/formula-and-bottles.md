@@ -119,3 +119,38 @@ Set it up once, at the feeding spot, so neither of you is hunting at 3 a.m.:
 | | | | | | | |
 
 _(Dated one-liners. The point is not perfect record-keeping — it is being able to answer the PD's questions without guessing.)_
+
+## 12. The infant-care transition program (agreed Fri 13 Nov 2026)
+
+**Why:** feeding is almost entirely direct breastfeeding. The evening bottle (since 10 Nov) is a 30 ml practice add-on, not a feed — so Eldric has never taken a *full* feed from a bottle, and nobody knows his per-feed volume. Infant care (from ~2 months, early Jan) is bottles only, supplied by us. This program closes both gaps gradually, so the first care week contains no new feeding skill. It extends §6, it does not replace it.
+
+**Rules throughout:** paced feeding (§5), slowest-flow teat (do not size up to finish faster), full-wake rule before a feed, burp after, Eric gives the bottles. A refused feed is data, not a battle — stop, breastfeed, retry next session, change one variable (timing, temperature, teat, place). Direct breastfeeding stays the majority until Phase 3.
+
+### Phase 1 — Measure (Sat 14 Nov → Mon 30 Nov; weeks 3–5)
+- Upgrade the evening practice bottle to **one full bottle feed per day** (formula is fine — the skill is the bottle, not the contents).
+- **Offer 90 ml.** He takes what he takes; the leftover is the measurement. Log offered / taken / minutes / time until the next hunger cue.
+- After ~7 logged feeds, his real per-feed number replaces all table estimates. Cross-check at the 26 Nov PD visit: ~150 ml/kg/day ÷ his weight.
+- Ervina hand-expresses or pumps briefly at the replaced feed where practical, so the replaced feed doesn't quietly cut supply.
+
+### Phase 2 — Rhythm + pumping (Tue 1 Dec → Mon 21 Dec; weeks 5–8)
+- **Two full bottle feeds per day** at care-like times (e.g. ~10:00 and ~14:30), the rest direct.
+- Ervina **pumps to replace each bottle feed** and logs her per-session output — that is her measurement, and it needs 1–2 weeks of practice to become representative. A low first-week pump number is normal and is *not* evidence of low supply ([`breastfeeding.md`](breastfeeding.md) §4).
+- **The pump must be bought by the start of this phase** — the S$150 company newborn-gift decision closes in November, not December.
+- Volumes step up with him: expect **90–120 ml per feed** by the end of this phase. Prepare each bottle at his measured number + ~15 ml headroom.
+- Freeze one extra ~120 ml portion per day when output allows. **Target: ~10 frozen portions** (≈2 care days + the centre's emergency stash) by late December.
+- Vary the context: bottle in the living room, after a walk — not only the evening feeding spot. The skill should belong to the bottle, not to one chair.
+
+### Phase 3 — Dress rehearsal (Tue 22 Dec → first care day; weeks 8–10)
+- **Three consecutive simulation days** before the centre start: a full care-day pattern at home — bottles at ~09:30 / ~12:30 / ~15:30, packed in the cooler bag in the morning, labelled (name, date/time expressed), fed from the packed bottles.
+- Ervina runs a work-day pump schedule those days; Eric runs the morning pack (4 bottles — 3 feeds + 1 spare, ice packs, nappies, spare clothes) and **times it**, so the January morning routine is measured, not guessed.
+- 2-month vaccinations in this window, ideally just before the first care day.
+- The centre's own ramp-up (short days in week 1) sits on top of this — by then, bottles are routine and only the place is new.
+
+### Done looks like
+- A full bottle finished in ~15–20 minutes without a battle, 3 days running.
+- Nappy counts on bottle-heavy days stay in the normal band (6+ wet, 3+ dirty) — the intake evidence.
+- Ervina's pumped output per replaced feed ≈ his intake per feed (±~20 ml) — supply matched to the January demand.
+- A written per-feed volume and daily total ready for the centre's intake sheet, from the log — not from memory.
+
+### If it stalls
+Refusal at any phase: drop back one phase for 3–4 days, change exactly one variable, retry. Persistent refusal, poor nappy counts, or weight concerns → PD (26 Nov visit is the scheduled checkpoint; sooner if the gauges move).
