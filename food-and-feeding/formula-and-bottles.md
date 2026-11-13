@@ -120,53 +120,8 @@ Set it up once, at the feeding spot, so neither of you is hunting at 3 a.m.:
 
 _(Dated one-liners. The point is not perfect record-keeping — it is being able to answer the PD's questions without guessing.)_
 
-## 12. The infant-care transition program (agreed Fri 13 Nov 2026)
+## 12. The infant-care transition program
 
-**Why:** feeding is effectively all direct breastfeeding. **No bottle routine has ever started** — a planned 10 Nov start was recorded as running but never happened (corrected by Eric, 13 Nov), and the house owns only 2 bottles (1 big, 1 small). Eldric has essentially never fed from a bottle, and nobody knows his per-feed volume. Infant care (from ~2 months, early Jan) is bottles only, supplied by us. This program closes both gaps gradually, so the first care week contains no new feeding skill. It extends §6, it does not replace it.
+The full step-by-step program — taking Eldric from 100% direct breastfeeding to full bottle feeds before infant care starts in January (12-hour days, 07:00–19:00, centre does not wash bottles) — lives in its own file, written to be followed by first-time parents without cross-referencing: [`infant-care-transition-program.md`](infant-care-transition-program.md).
 
-**Rules throughout:** paced feeding (§5), slowest-flow teat (do not size up to finish faster), full-wake rule before a feed, burp after, Eric gives the bottles. A refused feed is data, not a battle — stop, breastfeed, retry next session, change one variable (timing, temperature, teat, place). Direct breastfeeding stays the majority until Phase 3.
-
-### Phase 1 — Measure (Sat 14 Nov → Mon 30 Nov; weeks 3–5)
-- **Days 1–4 (the start that never happened, now done properly):** one practice bottle a day — 30 ml, building to 60 ml — Eric gives it, mildly hungry and calm, paced. The 2 bottles on hand are enough for this phase.
-- **Then, for the rest of Phase 1:** one **full bottle feed per day** (formula is fine — the skill is the bottle, not the contents).
-- **Offer 90 ml** for the full feed. He takes what he takes; the leftover is the measurement. Log offered / taken / minutes / time until the next hunger cue.
-- After ~7 logged feeds, his real per-feed number replaces all table estimates. Cross-check at the 26 Nov PD visit: ~150 ml/kg/day ÷ his weight.
-- Ervina hand-expresses or pumps briefly at the replaced feed where practical, so the replaced feed doesn't quietly cut supply.
-
-### Phase 2 — Rhythm + pumping (Tue 1 Dec → Mon 21 Dec; weeks 5–8)
-- **Two full bottle feeds per day** at care-like times (e.g. ~10:00 and ~14:30), the rest direct.
-- Ervina **pumps to replace each bottle feed** and logs her per-session output — that is her measurement, and it needs 1–2 weeks of practice to become representative. A low first-week pump number is normal and is *not* evidence of low supply ([`breastfeeding.md`](breastfeeding.md) §4).
-- **The pump must be bought by the start of this phase** — the S$150 company newborn-gift decision closes in November, not December.
-- Volumes step up with him: expect **90–120 ml per feed** by the end of this phase. Prepare each bottle at his measured number + ~15 ml headroom.
-- Freeze one extra ~120 ml portion per day when output allows. **Target: ~10 frozen portions** (≈2 care days + the centre's emergency stash) by late December.
-- Vary the context: bottle in the living room, after a walk — not only the evening feeding spot. The skill should belong to the bottle, not to one chair.
-
-### Phase 3 — Dress rehearsal (Tue 22 Dec → first care day; weeks 8–10)
-- **Three consecutive simulation days** before the centre start: a full care-day pattern at home — the care day is **12 hours (07:00–19:00)**, so bottles at ~09:00 / ~12:00 / ~15:00 / ~18:00, packed in the cooler bag in the morning, labelled (name, date/time expressed), fed from the packed bottles.
-- Ervina runs a work-day pump schedule those days; Eric runs the morning pack (5 bottles — 4 feeds + 1 spare, ice packs, nappies, spare clothes) and **times it**, so the January morning routine is measured, not guessed.
-- 2-month vaccinations in this window, ideally just before the first care day.
-- The centre's own ramp-up (short days in week 1) sits on top of this — by then, bottles are routine and only the place is new.
-
-### Done looks like
-- A full bottle finished in ~15–20 minutes without a battle, 3 days running.
-- Nappy counts on bottle-heavy days stay in the normal band (6+ wet, 3+ dirty) — the intake evidence.
-- Ervina's pumped output per replaced feed ≈ his intake per feed (±~20 ml) — supply matched to the January demand.
-- A written per-feed volume and daily total ready for the centre's intake sheet, from the log — not from memory.
-
-### If it stalls
-Refusal at any phase: drop back one phase for 3–4 days, change exactly one variable, retry. Persistent refusal, poor nappy counts, or weight concerns → PD (26 Nov visit is the scheduled checkpoint; sooner if the gauges move).
-
-### Bottle stock and sizes for infant care (added 13 Nov 2026)
-
-The centre does **not** wash or sterilise — every feed travels in its own pre-filled bottle, and all bottles come home dirty at night. So bottle count = feeds per day + spare, with two rotating sets at home (one set out / in the wash, one clean and ready).
-
-| Age | Bottles sent / day | Per-feed volume | Bottle size to send |
-|---|---|---|---|
-| 2–4 months | 5 (4 feeds + 1 spare) | ~120 ml | 150 ml |
-| 4–6 months | 5 (4 feeds + 1 spare) | ~150–180 ml | 260 ml |
-| 6+ months (solids started) | usually 4 (3 feeds + 1 spare) | ~180 ml | 260 ml |
-
-- **Home stock target: 10 × 150 ml** (two sets of 5). On hand 13 Nov: **2 bottles only (1 big, 1 small)** — enough for Phase 1, but the 150 ml set is a November purchase, needed from Phase 2 (1 Dec), in the same window as the pump. Seven is the floor (5 + 2) but leaves little margin for breakage or a missed evening wash. Add **5 × 260 ml** around month 4–5, when a feed outgrows the 150 ml bottle.
-- The **spare** travels filled. If it comes home unused, still refrigerated and never warmed or fed from, it becomes tomorrow's first bottle (inside the 4-day EBM fridge window, §6 of [`breastfeeding.md`](breastfeeding.md)). An expressed-milk spare rotates like this far more easily than a made-up formula one (24 h fridge limit, §2).
-- **Teats:** one per bottle plus spares; slow flow throughout the bottle program. Replace teats ~every 2 months, or sooner if sticky, torn or stretched (§4).
-- Pump-side bottles and storage bags are separate kit — don't count them in the feeding-bottle stock.
+Shape: **Phase 1** (14–30 Nov) learn the bottle + measure his per-feed volume; **Phase 2** (1–21 Dec) two bottles a day at care times + Ervina pumping + freezer stash; **Phase 3** (22 Dec → first care day) three full rehearsal days. Bottle stock: send 5/day (4 feeds + 1 spare); own 10 × 150 ml (only 2 bottles on hand as of 13 Nov — the set is a November purchase, with the pump).
