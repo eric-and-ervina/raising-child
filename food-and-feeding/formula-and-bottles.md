@@ -141,8 +141,8 @@ _(Dated one-liners. The point is not perfect record-keeping — it is being able
 - Vary the context: bottle in the living room, after a walk — not only the evening feeding spot. The skill should belong to the bottle, not to one chair.
 
 ### Phase 3 — Dress rehearsal (Tue 22 Dec → first care day; weeks 8–10)
-- **Three consecutive simulation days** before the centre start: a full care-day pattern at home — bottles at ~09:30 / ~12:30 / ~15:30, packed in the cooler bag in the morning, labelled (name, date/time expressed), fed from the packed bottles.
-- Ervina runs a work-day pump schedule those days; Eric runs the morning pack (4 bottles — 3 feeds + 1 spare, ice packs, nappies, spare clothes) and **times it**, so the January morning routine is measured, not guessed.
+- **Three consecutive simulation days** before the centre start: a full care-day pattern at home — the care day is **12 hours (07:00–19:00)**, so bottles at ~09:00 / ~12:00 / ~15:00 / ~18:00, packed in the cooler bag in the morning, labelled (name, date/time expressed), fed from the packed bottles.
+- Ervina runs a work-day pump schedule those days; Eric runs the morning pack (5 bottles — 4 feeds + 1 spare, ice packs, nappies, spare clothes) and **times it**, so the January morning routine is measured, not guessed.
 - 2-month vaccinations in this window, ideally just before the first care day.
 - The centre's own ramp-up (short days in week 1) sits on top of this — by then, bottles are routine and only the place is new.
 
@@ -161,11 +161,11 @@ The centre does **not** wash or sterilise — every feed travels in its own pre-
 
 | Age | Bottles sent / day | Per-feed volume | Bottle size to send |
 |---|---|---|---|
-| 2–4 months | 4 (3 feeds + 1 spare) | ~120 ml | 150 ml |
-| 4–6 months | 4 (3 feeds + 1 spare) | ~150–180 ml | 260 ml |
-| 6+ months (solids started) | usually 3 | ~180 ml | 260 ml |
+| 2–4 months | 5 (4 feeds + 1 spare) | ~120 ml | 150 ml |
+| 4–6 months | 5 (4 feeds + 1 spare) | ~150–180 ml | 260 ml |
+| 6+ months (solids started) | usually 4 (3 feeds + 1 spare) | ~180 ml | 260 ml |
 
-- **Home stock: 8 × 150 ml now** (two sets of 4). Six is the floor (4 + 2) but leaves no margin for breakage or a missed evening wash. Add **4 × 260 ml** around month 4–5, when a feed outgrows the 150 ml bottle.
+- **Home stock: 10 × 150 ml now** (two sets of 5). Seven is the floor (5 + 2) but leaves little margin for breakage or a missed evening wash. Add **5 × 260 ml** around month 4–5, when a feed outgrows the 150 ml bottle.
 - The **spare** travels filled. If it comes home unused, still refrigerated and never warmed or fed from, it becomes tomorrow's first bottle (inside the 4-day EBM fridge window, §6 of [`breastfeeding.md`](breastfeeding.md)). An expressed-milk spare rotates like this far more easily than a made-up formula one (24 h fridge limit, §2).
 - **Teats:** one per bottle plus spares; slow flow throughout the bottle program. Replace teats ~every 2 months, or sooner if sticky, torn or stretched (§4).
 - Pump-side bottles and storage bags are separate kit — don't count them in the feeding-bottle stock.
